@@ -1,1067 +1,1319 @@
 #EXTM3U
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1CP",A&E FHD
-http://psrv.io:80/22804316740/snakeplay/18858
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/uuz",A&E FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22213
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/SDH",A&E HD
-http://psrv.io:80/22804316740/snakeplay/18738
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/o9i",A&E SD
-http://psrv.io:80/22804316740/snakeplay/18739
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/PFh",AMC FHD
-http://psrv.io:80/22804316740/snakeplay/18857
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GcF",AMC FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22212
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/5Gw",AMC HD
-http://psrv.io:80/22804316740/snakeplay/18736
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6ZV",AMC SD
-http://psrv.io:80/22804316740/snakeplay/18737
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/slU",Animal Planet FHD
-http://psrv.io:80/22804316740/snakeplay/18856
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/aPp",Animal Planet FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22211
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/BZz",Animal Planet HD
-http://psrv.io:80/22804316740/snakeplay/18734
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/fjU",Animal Planet SD
-http://psrv.io:80/22804316740/snakeplay/18735
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/s04",ANIMAL PLANET [4K]
-http://psrv.io:80/22804316740/snakeplay/26189
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/I6b",Arte 1 FHD
-http://psrv.io:80/22804316740/snakeplay/18855
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Vfq",Arte 1 HD
-http://psrv.io:80/22804316740/snakeplay/27884
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/rpV",AXN FHD
-http://psrv.io:80/22804316740/snakeplay/18854
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ItW",AXN FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22210
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1K",AXN HD
-http://psrv.io:80/22804316740/snakeplay/18730
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/qfK",AXN SD
-http://psrv.io:80/22804316740/snakeplay/18731
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/k3q",BabyTV SD
-http://psrv.io:80/22804316740/snakeplay/18729
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band Bahia SD
-http://psrv.io:80/22804316740/snakeplay/28060
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/68l",Band Sergipe HD
-http://psrv.io:80/22804316740/snakeplay/22476
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/iGF",Band SP FHD
-http://psrv.io:80/22804316740/snakeplay/18786
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/wHL",Band Goiania FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25249
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/X0u",Band SP HD
-http://psrv.io:80/22804316740/snakeplay/18727
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/xaf",Band SP SD
-http://psrv.io:80/22804316740/snakeplay/18728
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/ocG",BAND [4K]
-http://psrv.io:80/22804316740/snakeplay/26179
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/jeQ",BandNews FHD
-http://psrv.io:80/22804316740/snakeplay/18853
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/vx0",BandNews FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22152
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/COC",BandNews HD
-http://psrv.io:80/22804316740/snakeplay/18725
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/mps",BandNews SD
-http://psrv.io:80/22804316740/snakeplay/18726
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/7yf",BandSports FHD
-http://psrv.io:80/22804316740/snakeplay/18852
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/mPu",BandSports FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22151
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/0ev",BandSports HD
-http://psrv.io:80/22804316740/snakeplay/18723
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/ral",BandSports SD
-http://psrv.io:80/22804316740/snakeplay/18724
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/UIf",Bis FHD
-http://psrv.io:80/22804316740/snakeplay/18785
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/XaE",Bis FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22150
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PAl",Bis HD
-http://psrv.io:80/22804316740/snakeplay/18721
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ybv",Bis SD
-http://psrv.io:80/22804316740/snakeplay/18722
-#EXTINF:-1 group-title="Canais | Internacionais",Bloomberg Television
-http://psrv.io:80/22804316740/snakeplay/28159
-#EXTINF:-1 group-title="Canais | Internacionais",[ES] Canal Sur Flamenco
-http://psrv.io:80/22804316740/snakeplay/28166
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6f2",Boomerang FHD
-http://psrv.io:80/22804316740/snakeplay/18851
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/DAg",Boomerang FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25317
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/BLS",Boomerang HD
-http://psrv.io:80/22804316740/snakeplay/18718
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/H1Y",Boomerang SD
-http://psrv.io:80/22804316740/snakeplay/18719
-#EXTINF:-1 group-title="Canais | Internacionais",CANAL 26 ARGENTINA HD
-http://psrv.io:80/22804316740/snakeplay/26427
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/UqA",Canal Brasil FHD
-http://psrv.io:80/22804316740/snakeplay/18753
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/bUk",Canal Brasil FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25316
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GsJ",Canal Brasil HD
-http://psrv.io:80/22804316740/snakeplay/18716
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/kWm",Canal Brasil SD
-http://psrv.io:80/22804316740/snakeplay/18717
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/0Tm",Cancao Nova SD
-http://psrv.io:80/22804316740/snakeplay/18713
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/gGw",Cartoon Network FHD
-http://psrv.io:80/22804316740/snakeplay/18849
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6WN",Cartoon Network FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25314
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Brc",Cartoon Network HD
-http://psrv.io:80/22804316740/snakeplay/18711
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/BjV",Cartoon Network SD
-http://psrv.io:80/22804316740/snakeplay/18712
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Mqt",CARTOON NETWORK [4K]
-http://psrv.io:80/22804316740/snakeplay/26408
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/IbR",Cinemax FHD
-http://psrv.io:80/22804316740/snakeplay/18848
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i31",Cinemax FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25313
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/Lo1",Cinemax HD
-http://psrv.io:80/22804316740/snakeplay/18709
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ZLC",Cinemax SD
-http://psrv.io:80/22804316740/snakeplay/18710
-#EXTINF:-1 group-title="Canais | Internacionais",CNN INTERNACIONAL SD
-http://psrv.io:80/22804316740/snakeplay/26438
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Bh",Combate FHD
-http://psrv.io:80/22804316740/snakeplay/18784
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/na3",Combate FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25312
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/ids",Combate HD
-http://psrv.io:80/22804316740/snakeplay/18707
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/jLd",Combate SD
-http://psrv.io:80/22804316740/snakeplay/18708
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/E0D",COMBATE [4K]
-http://psrv.io:80/22804316740/snakeplay/26180
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0Ww",Comedy Central FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25311
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/qUw",Comedy Central HD
-http://psrv.io:80/22804316740/snakeplay/18705
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/RrZ",Comedy Central SD
-http://psrv.io:80/22804316740/snakeplay/18706
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fVn",Curta! SD
-http://psrv.io:80/22804316740/snakeplay/18704
-#EXTINF:-1 group-title="Canais | Jogos & Eventos" tvg-logo="http://z4.vc/162",DAZN  CHANNEL 1
-http://psrv.io:80/22804316740/snakeplay/26195
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Y5D",Discovery Channel FHD
-http://psrv.io:80/22804316740/snakeplay/18783
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/0v1",Discovery Channel FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22204
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/W6B",Discovery Channel HD
-http://psrv.io:80/22804316740/snakeplay/18701
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4mU",Discovery Channel SD
-http://psrv.io:80/22804316740/snakeplay/18702
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/o8B",DISCOVERY CHANNEL [4K]
-http://psrv.io:80/22804316740/snakeplay/26185
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/cEF",Discovery H&H FHD
-http://psrv.io:80/22804316740/snakeplay/18844
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/y3l",Discovery H&H FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22148
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/nXL",Discovery H&H HD
-http://psrv.io:80/22804316740/snakeplay/18697
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/91r",Discovery H&H SD
-http://psrv.io:80/22804316740/snakeplay/18698
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/oNt",Discovery Kids FHD
-http://psrv.io:80/22804316740/snakeplay/18843
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Eoe",Discovery Kids FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22202
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/s9P",Discovery Kids SD
-http://psrv.io:80/22804316740/snakeplay/18696
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/N8Y",Discovery Kids HD
-http://psrv.io:80/22804316740/snakeplay/22325
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/bfd",Discovery Science FHD
-http://psrv.io:80/22804316740/snakeplay/18842
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/rQr",Discovery Science HD
-http://psrv.io:80/22804316740/snakeplay/18693
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/fV1",Discovery Science SD
-http://psrv.io:80/22804316740/snakeplay/18694
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/m7Y",Discovery Theater FHD
-http://psrv.io:80/22804316740/snakeplay/18841
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9eJ",Discovery Theater FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22200
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/FSs",Discovery Theater HD
-http://psrv.io:80/22804316740/snakeplay/18691
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/9oW",Discovery Theater SD
-http://psrv.io:80/22804316740/snakeplay/18692
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/oAo",Discovery Turbo FHD
-http://psrv.io:80/22804316740/snakeplay/18840
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1cS",Discovery Turbo FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22131
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/AsO",Discovery Turbo HD
-http://psrv.io:80/22804316740/snakeplay/18689
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Vy0",Discovery Turbo SD
-http://psrv.io:80/22804316740/snakeplay/18690
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/x0i",Discovery World FHD
-http://psrv.io:80/22804316740/snakeplay/18839
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/4Yx",Discovery World FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22130
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/SxE",Discovery World HD
-http://psrv.io:80/22804316740/snakeplay/18687
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/x5l",Discovery World SD
-http://psrv.io:80/22804316740/snakeplay/18688
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/eri",Disney FHD
-http://psrv.io:80/22804316740/snakeplay/18782
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/k3R",Disney FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22147
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/COA",Disney HD
-http://psrv.io:80/22804316740/snakeplay/18685
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pw6",Disney Junior FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22146
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/67y",Disney Junior HD
-http://psrv.io:80/22804316740/snakeplay/18509
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/3Vd",Disney Junior SD
-http://psrv.io:80/22804316740/snakeplay/18684
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Vjj",Disney SD
-http://psrv.io:80/22804316740/snakeplay/18686
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6MT",Disney SD
-http://psrv.io:80/22804316740/snakeplay/22323
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/n2T",Disney XD SD
-http://psrv.io:80/22804316740/snakeplay/22321
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/L5h",Dog TV FHD
-http://psrv.io:80/22804316740/snakeplay/28001
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6nk",Dog TV HD
-http://psrv.io:80/22804316740/snakeplay/28000
-#EXTINF:-1 group-title="Canais | Internacionais",DW ALEMANHA HD
-http://psrv.io:80/22804316740/snakeplay/26429
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HbJ",E! FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22145
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PCy",E! HD
-http://psrv.io:80/22804316740/snakeplay/18681
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z05",E! SD
-http://psrv.io:80/22804316740/snakeplay/18682
-#EXTINF:-1 group-title="Canais | Esportes",EI Plus 1 HD
-http://psrv.io:80/22804316740/snakeplay/22978
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Lkj",ESPN 2 FHD
-http://psrv.io:80/22804316740/snakeplay/18837
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/oUp",ESPN 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25309
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/krr",ESPN 2 HD
-http://psrv.io:80/22804316740/snakeplay/18678
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/J6U",ESPN 2 SD
-http://psrv.io:80/22804316740/snakeplay/18679
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/a01",ESPN Brasil FHD
-http://psrv.io:80/22804316740/snakeplay/18781
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2zo",ESPN Brasil FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25238
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/hvU",ESPN Brasil HD
-http://psrv.io:80/22804316740/snakeplay/18676
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/S1E",ESPN Brasil SD
-http://psrv.io:80/22804316740/snakeplay/18677
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/TAv",ESPN Extra FHD
-http://psrv.io:80/22804316740/snakeplay/18836
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/2Db",ESPN Extra FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25308
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/1xn",ESPN Extra HD
-http://psrv.io:80/22804316740/snakeplay/18674
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/dzo",ESPN Extra SD
-http://psrv.io:80/22804316740/snakeplay/18675
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/GbD",ESPN FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25237
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/gWv",ESPN HD
-http://psrv.io:80/22804316740/snakeplay/18673
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/yGS",ESPN SD
-http://psrv.io:80/22804316740/snakeplay/18680
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/IIo",ESPN [4K]
-http://psrv.io:80/22804316740/snakeplay/27130
-#EXTINF:-1 group-title="Canais | Internacionais",Euro Channel FHD
-http://psrv.io:80/22804316740/snakeplay/28400
-#EXTINF:-1 group-title="Canais | Variedades",FASHION TV FHD
-http://psrv.io:80/22804316740/snakeplay/25236
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/T5S",Film & Arts SD
-http://psrv.io:80/22804316740/snakeplay/18497
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/7MZ",Fish TV FHD
-http://psrv.io:80/22804316740/snakeplay/18835
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ILy",Fish TV FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22199
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/VxE",Fish TV HD
-http://psrv.io:80/22804316740/snakeplay/18671
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Rxi",Fish TV SD
-http://psrv.io:80/22804316740/snakeplay/18672
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Iv6",Food Network FHD
-http://psrv.io:80/22804316740/snakeplay/18834
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/rgy",Food Network FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22198
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fYt",Food Network HD
-http://psrv.io:80/22804316740/snakeplay/18669
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/2cT",Food Network SD
-http://psrv.io:80/22804316740/snakeplay/18670
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/Gcu",Fox FHD
-http://psrv.io:80/22804316740/snakeplay/18779
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yeh",Fox FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22197
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/DUZ",Fox HD
-http://psrv.io:80/22804316740/snakeplay/18667
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/EsS",Fox Life FHD
-http://psrv.io:80/22804316740/snakeplay/18833
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/9pz",Fox Life HD
-http://psrv.io:80/22804316740/snakeplay/18665
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/E0q",Fox Life SD
-http://psrv.io:80/22804316740/snakeplay/18666
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/efE",Fox Premium 1 FHD
-http://psrv.io:80/22804316740/snakeplay/18832
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/C2g",Fox Premium 1 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22144
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AQ5",Fox Premium 1 HD
-http://psrv.io:80/22804316740/snakeplay/18663
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/TCc",Fox Premium 1 SD
-http://psrv.io:80/22804316740/snakeplay/18664
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/qoY",Fox Premium 2 FHD
-http://psrv.io:80/22804316740/snakeplay/18831
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/O5F",Fox Premium 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22143
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/g8Q",Fox Premium 2 HD
-http://psrv.io:80/22804316740/snakeplay/18661
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cw8",Fox Premium 2 SD
-http://psrv.io:80/22804316740/snakeplay/18662
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OcS",Fox SD
-http://psrv.io:80/22804316740/snakeplay/18668
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/Qen",Fox Sports 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22196
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/pne",Fox Sports 2 HD
-http://psrv.io:80/22804316740/snakeplay/18657
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Pgs",FOX SPORTS 2 [4K]
-http://psrv.io:80/22804316740/snakeplay/26406
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/H6m",Fox Sports FHD
-http://psrv.io:80/22804316740/snakeplay/18777
-#EXTINF:-1 group-title="Canais | Esportes",Fox Sports FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/28074
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/tG9",Fox Sports FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22195
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/nWk",Fox Sports HD
-http://psrv.io:80/22804316740/snakeplay/18659
-#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://z4.vc/LEj",Fox Sports SD
-http://psrv.io:80/22804316740/snakeplay/18660
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/iWc",FOX SPORTS [4K]
-http://psrv.io:80/22804316740/snakeplay/26187
-#EXTINF:-1 group-title="Canais | Abertos",Futura FHD
-http://psrv.io:80/22804316740/snakeplay/28198
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XaX",Futura SD
-http://psrv.io:80/22804316740/snakeplay/18656
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/A4M",FX FHD
-http://psrv.io:80/22804316740/snakeplay/18829
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/TBI",FX FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22194
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/OsR",FX HD
-http://psrv.io:80/22804316740/snakeplay/18653
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/GEc",FX SD
-http://psrv.io:80/22804316740/snakeplay/22233
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Brasilia FHD[H265]
-http://psrv.io:80/22804316740/snakeplay/28390
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vli",Globo Brasilia HD
-http://psrv.io:80/22804316740/snakeplay/18434
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Brasilia SD
-http://psrv.io:80/22804316740/snakeplay/18435
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5XU",Globo EPTV Araraquara SD
-http://psrv.io:80/22804316740/snakeplay/18433
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/n8G",Globo EPTV Campinas SD
-http://psrv.io:80/22804316740/snakeplay/18431
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pqb",Globo EPTV Ribeirao Preto HD
-http://psrv.io:80/22804316740/snakeplay/18430
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5Uj",Globo EPTV Ribeirao Preto SD
-http://psrv.io:80/22804316740/snakeplay/18429
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/nrI",Globo EPTV Sao Carlos SD
-http://psrv.io:80/22804316740/snakeplay/18428
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Mato Grosso FHD
-http://psrv.io:80/22804316740/snakeplay/28394
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/aZb",Globo Mato Grosso HD
-http://psrv.io:80/22804316740/snakeplay/28393
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/KxL",Globo Minas FHD
-http://psrv.io:80/22804316740/snakeplay/18377
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/4YI",Globo Minas HD
-http://psrv.io:80/22804316740/snakeplay/18425
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/ep1",Globo Minas SD
-http://psrv.io:80/22804316740/snakeplay/18426
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/qOs",Globo News FHD
-http://psrv.io:80/22804316740/snakeplay/18776
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/5tp",Globo News FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22193
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/4gV",Globo News HD
-http://psrv.io:80/22804316740/snakeplay/18651
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/lKc",Globo News SD
-http://psrv.io:80/22804316740/snakeplay/18652
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/97A",Globo Nordeste FHD
-http://psrv.io:80/22804316740/snakeplay/18376
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/p5d",Globo Nordeste SD
-http://psrv.io:80/22804316740/snakeplay/18424
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vey",Globo NSC TV Florianopolis FHD
-http://psrv.io:80/22804316740/snakeplay/18375
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5Kj",Globo NSC TV Florianopolis HD
-http://psrv.io:80/22804316740/snakeplay/18421
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/wJx",Globo RBS TV Porto Alegre HD
-http://psrv.io:80/22804316740/snakeplay/18419
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/CX5",Globo RBS TV Porto Alegre SD
-http://psrv.io:80/22804316740/snakeplay/18420
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/X3N",Globo Rede Amazonas Manaus SD
-http://psrv.io:80/22804316740/snakeplay/18418
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/k7r",Globo RJ FHD
-http://psrv.io:80/22804316740/snakeplay/18415
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pzi",Globo RJ FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25232
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/CpN",Globo RJ HD
-http://psrv.io:80/22804316740/snakeplay/18416
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/FYM",Globo RJ SD
-http://psrv.io:80/22804316740/snakeplay/18417
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/8Bl",Globo RPC Curitiba HD
-http://psrv.io:80/22804316740/snakeplay/18413
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/F32",Globo RPC Curitiba SD
-http://psrv.io:80/22804316740/snakeplay/18412
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/HQs",Globo RPC Curitiba SD
-http://psrv.io:80/22804316740/snakeplay/18414
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/rtl",Globo Sao Jose dos Campos SD
-http://psrv.io:80/22804316740/snakeplay/22448
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/pzi",Globo SP FHD
-http://psrv.io:80/22804316740/snakeplay/28068
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Vlx",Globo SP HD
-http://psrv.io:80/22804316740/snakeplay/18410
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/tlB",Globo SP SD
-http://psrv.io:80/22804316740/snakeplay/18411
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/rxr",GLOBO SP [4K]
-http://psrv.io:80/22804316740/snakeplay/26181
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/o8M",Globo TV Anhanguera Goiania SD
-http://psrv.io:80/22804316740/snakeplay/18407
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/2HU",Globo TV Salvador Bahia HD
-http://psrv.io:80/22804316740/snakeplay/18405
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/ORA",Globo TV Bahia SD
-http://psrv.io:80/22804316740/snakeplay/18406
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/Ew0",Globo TV C. America Cuiaba SD
-http://psrv.io:80/22804316740/snakeplay/18404
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/V9M",Globo TV Cabo Frio HD
-http://psrv.io:80/22804316740/snakeplay/18332
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/3yp",Globo TV Diario Fortaleza FHD
-http://psrv.io:80/22804316740/snakeplay/18740
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/JPA",Globo TV Diario Fortaleza HD
-http://psrv.io:80/22804316740/snakeplay/18490
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/hex",Globo TV Gazeta Sul ES FHD
-http://psrv.io:80/22804316740/snakeplay/18361
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/R14",Globo TV Gazeta Sul ES HD
-http://psrv.io:80/22804316740/snakeplay/18360
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/y1y",Globo TV Liberal Belem SD
-http://psrv.io:80/22804316740/snakeplay/18403
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/iWH",Globo TV Mirante Sao Luis FHD
-http://psrv.io:80/22804316740/snakeplay/18371
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/XMT",Globo TV Mirante Sao Luis HD
-http://psrv.io:80/22804316740/snakeplay/18370
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/l2H",Globo TV Rio Sul HD
-http://psrv.io:80/22804316740/snakeplay/18330
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/jUt",Globo TV Santa Cruz HD
-http://psrv.io:80/22804316740/snakeplay/18327
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/PSf",Globo TV Sergipe HD
-http://psrv.io:80/22804316740/snakeplay/18380
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/zfQ",Globo TV TEM Bauru SD
-http://psrv.io:80/22804316740/snakeplay/18402
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/c9W",Globo TV TEM S. J. do Rio Preto HD
-http://psrv.io:80/22804316740/snakeplay/18400
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/tLN",Globo TV TEM S. J. do Rio Preto SD
-http://psrv.io:80/22804316740/snakeplay/18399
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/5rA",Globo TV TEM S. J. Rio Preto FHD
-http://psrv.io:80/22804316740/snakeplay/18365
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/F7c",Globo TV TEM Sorocaba SD
-http://psrv.io:80/22804316740/snakeplay/18401
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/B32",Globo TV Tribuna Santas SD
-http://psrv.io:80/22804316740/snakeplay/18398
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/crH",Globo TV Vanguarda S. J. dos Campos SD
-http://psrv.io:80/22804316740/snakeplay/18397
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Verdes Mares Fortaleza HD
-http://psrv.io:80/22804316740/snakeplay/28395
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/osc",Globo TV Verdes Mares Fortaleza SD
-http://psrv.io:80/22804316740/snakeplay/18396
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/e4t",GloboSat FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22129
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/KG5",GloboSat SD
-http://psrv.io:80/22804316740/snakeplay/22311
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/dOF",Gloob FHD
-http://psrv.io:80/22804316740/snakeplay/18775
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/EuT",Gloob FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22142
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/uDI",Gloob HD
-http://psrv.io:80/22804316740/snakeplay/18649
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/K5g",Gloob SD
-http://psrv.io:80/22804316740/snakeplay/18650
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/KhW",Gloob SD
-http://psrv.io:80/22804316740/snakeplay/22310
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ibf",GNT FHD
-http://psrv.io:80/22804316740/snakeplay/18827
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Z8a",GNT FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22141
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6ya",GNT HD
-http://psrv.io:80/22804316740/snakeplay/18645
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Dat",GNT SD
-http://psrv.io:80/22804316740/snakeplay/18646
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Yos",H2 FHD
-http://psrv.io:80/22804316740/snakeplay/18826
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/cwN",H2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22192
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/prI",H2 HD
-http://psrv.io:80/22804316740/snakeplay/18643
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Izg",H2 SD
-http://psrv.io:80/22804316740/snakeplay/22309
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/jVz",HBO 2 FHD
-http://psrv.io:80/22804316740/snakeplay/18774
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/8E9",HBO 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22189
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/0PM",HBO 2 HD
-http://psrv.io:80/22804316740/snakeplay/18640
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/zwf",HBO 2 SD
-http://psrv.io:80/22804316740/snakeplay/18641
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/VUR",HBO Family FHD
-http://psrv.io:80/22804316740/snakeplay/18825
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/kwk",HBO Family FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22140
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/JtC",HBO Family HD
-http://psrv.io:80/22804316740/snakeplay/18638
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/vKg",HBO Family SD
-http://psrv.io:80/22804316740/snakeplay/18639
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO FHD
-http://psrv.io:80/22804316740/snakeplay/18773
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Tjb",HBO FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22139
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/z1Y",HBO HD
-http://psrv.io:80/22804316740/snakeplay/18637
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/YOR",HBO Plus FHD
-http://psrv.io:80/22804316740/snakeplay/18824
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/EFq",HBO Plus FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22191
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/oZI",HBO Plus HD
-http://psrv.io:80/22804316740/snakeplay/18635
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/Gg9",HBO Plus SD
-http://psrv.io:80/22804316740/snakeplay/18636
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/ncl",HBO SD
-http://psrv.io:80/22804316740/snakeplay/18642
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/97M",HBO Signature FHD
-http://psrv.io:80/22804316740/snakeplay/18823
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/1lN",HBO Signature FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22190
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/ICL",HBO Signature HD
-http://psrv.io:80/22804316740/snakeplay/18633
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/CPt",HBO Signature SD
-http://psrv.io:80/22804316740/snakeplay/18634
-#EXTINF:-1 group-title="Canais | Documentários",HGTV FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22203
-#EXTINF:-1 group-title="Canais | Documentários",HGTV HD
-http://psrv.io:80/22804316740/snakeplay/18699
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/3Ee",HGTV SD
-http://psrv.io:80/22804316740/snakeplay/18700
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/YVo",History Channel FHD
-http://psrv.io:80/22804316740/snakeplay/18822
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/p68",History Channel FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22188
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/hEz",History Channel HD
-http://psrv.io:80/22804316740/snakeplay/18631
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/GaY",History Channel SD
-http://psrv.io:80/22804316740/snakeplay/18632
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/vS4",ID: Investigacao Discovery FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22187
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/dAy",ID: Investigacao Discovery SD
-http://psrv.io:80/22804316740/snakeplay/18630
-#EXTINF:-1 group-title="Canais | Religiosos",Ideal  TV FHD
-http://psrv.io:80/22804316740/snakeplay/28397
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Life Time FHD
-http://psrv.io:80/22804316740/snakeplay/28401
-#EXTINF:-1 group-title="Canais | Filmes e Séries",Life Time SD
-http://psrv.io:80/22804316740/snakeplay/28402
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/jgf",Lifetime FHD
-http://psrv.io:80/22804316740/snakeplay/18820
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/ELX",Lifetime FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22186
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/a4s",Lifetime HD
-http://psrv.io:80/22804316740/snakeplay/18627
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Eyw",Lifetime SD
-http://psrv.io:80/22804316740/snakeplay/18628
-#EXTINF:-1 group-title="Canais | Internacionais",LOVE NATURAL FHD
-http://psrv.io:80/22804316740/snakeplay/26697
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/DiW",Mais GloboSat FHD
-http://psrv.io:80/22804316740/snakeplay/18754
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/9d1",Mais GloboSat FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25291
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0yY",Mais GloboSat HD
-http://psrv.io:80/22804316740/snakeplay/18625
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/QSP",Mais GloboSat SD
-http://psrv.io:80/22804316740/snakeplay/18626
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/amW",Max FHD
-http://psrv.io:80/22804316740/snakeplay/18819
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cmn",Max FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22185
-#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://z4.vc/xDI",HBO Mundi HD
-http://psrv.io:80/22804316740/snakeplay/18623
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/fwU",Max Prime HD
-http://psrv.io:80/22804316740/snakeplay/18621
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cv2",Max Prime SD
-http://psrv.io:80/22804316740/snakeplay/18622
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/CmH",Max SD
-http://psrv.io:80/22804316740/snakeplay/18624
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/g9W",Megapix SD
-http://psrv.io:80/22804316740/snakeplay/18618
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/asB",MEGAPIX [4K]
-http://psrv.io:80/22804316740/snakeplay/26407
-#EXTINF:-1 group-title="Canais | Internacionais",MIAMI TV HD
-http://psrv.io:80/22804316740/snakeplay/26430
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/1kJ",MTV FHD
-http://psrv.io:80/22804316740/snakeplay/18815
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/zg9",MTV FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22183
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/sTl",MTV HD
-http://psrv.io:80/22804316740/snakeplay/18615
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/PWM",MTV Live FHD
-http://psrv.io:80/22804316740/snakeplay/18814
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/MWq",MTV SD
-http://psrv.io:80/22804316740/snakeplay/18616
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/7vt",Multishow FHD
-http://psrv.io:80/22804316740/snakeplay/18813
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6Yx",Multishow FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22182
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Oev",Multishow HD
-http://psrv.io:80/22804316740/snakeplay/18613
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/0j3",Multishow SD
-http://psrv.io:80/22804316740/snakeplay/18614
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/odD",Music Box Brasil HD
-http://psrv.io:80/22804316740/snakeplay/18611
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/SEn",Music Box Brasil SD
-http://psrv.io:80/22804316740/snakeplay/18612
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/yTi",NatGeo Kids FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22180
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/4kC",NatGeo Kids HD
-http://psrv.io:80/22804316740/snakeplay/18607
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/3yZ",NatGeo Kids SD
-http://psrv.io:80/22804316740/snakeplay/18608
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/t2t",NatGeo Wild FHD
-http://psrv.io:80/22804316740/snakeplay/18809
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Nzf",NatGeo Wild FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22179
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/Vzb",NatGeo Wild HD
-http://psrv.io:80/22804316740/snakeplay/18606
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/qtJ",NatGeo Wild SD
-http://psrv.io:80/22804316740/snakeplay/18605
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/aSn",NATGEO [4K]
-http://psrv.io:80/22804316740/snakeplay/26695
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/QKB",National Geographic FHD
-http://psrv.io:80/22804316740/snakeplay/18811
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/uNC",National Geographic SD
-http://psrv.io:80/22804316740/snakeplay/18610
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/8Qu",NHK JAPAO SD
-http://psrv.io:80/22804316740/snakeplay/26436
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/UKk",NHK SD
-http://psrv.io:80/22804316740/snakeplay/22219
-#EXTINF:-1 group-title="Canais | Internacionais" tvg-logo="http://z4.vc/kon",NHK WORLD HD
-http://psrv.io:80/22804316740/snakeplay/26435
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/pI8",Nick Jr FHD
-http://psrv.io:80/22804316740/snakeplay/18808
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/HZk",Nick Jr FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22178
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Xp5",Nick Jr HD
-http://psrv.io:80/22804316740/snakeplay/18602
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/kuz",Nick Jr SD
-http://psrv.io:80/22804316740/snakeplay/18603
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/9Ti",Nickelodeon FHD
-http://psrv.io:80/22804316740/snakeplay/18807
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/NFO",Nickelodeon FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22136
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/6RD",Nickelodeon HD
-http://psrv.io:80/22804316740/snakeplay/18600
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/Ad6",Nickelodeon SD
-http://psrv.io:80/22804316740/snakeplay/18601
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/DH2",OFF FHD
-http://psrv.io:80/22804316740/snakeplay/18806
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/F6G",OFF FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22135
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/L2Z",OFF HD
-http://psrv.io:80/22804316740/snakeplay/18598
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/dGv",OFF SD
-http://psrv.io:80/22804316740/snakeplay/18599
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 1
-http://psrv.io:80/22804316740/snakeplay/28160
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 2
-http://psrv.io:80/22804316740/snakeplay/28161
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 3
-http://psrv.io:80/22804316740/snakeplay/28162
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 4
-http://psrv.io:80/22804316740/snakeplay/28163
-#EXTINF:-1 group-title="Canais | Internacionais",Olympic Channel 5
-http://psrv.io:80/22804316740/snakeplay/28164
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/UeA",Paramount Channel FHD
-http://psrv.io:80/22804316740/snakeplay/18805
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VL0",Paramount Channel FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22177
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/QY7",Paramount Channel HD
-http://psrv.io:80/22804316740/snakeplay/18596
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/G8C",Paramount Channel SD
-http://psrv.io:80/22804316740/snakeplay/18597
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/jN0",Play TV SD
-http://psrv.io:80/22804316740/snakeplay/22288
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/Bxs",PREMIERE CLUBES [4K]
-http://psrv.io:80/22804316740/snakeplay/26184
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/B3z",Premiere 2 FHD
-http://psrv.io:80/22804316740/snakeplay/18772
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/JZf",Premiere 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22176
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/7TJ",Premiere 2 HD
-http://psrv.io:80/22804316740/snakeplay/18594
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Dw5",Premiere 2 SD
-http://psrv.io:80/22804316740/snakeplay/18595
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zhT",Premiere 3 FHD
-http://psrv.io:80/22804316740/snakeplay/18771
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/3MT",Premiere 3 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22175
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Eov",Premiere 3 HD
-http://psrv.io:80/22804316740/snakeplay/18592
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/pYW",Premiere 3 SD
-http://psrv.io:80/22804316740/snakeplay/18593
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/l5p",Premiere 4 FHD
-http://psrv.io:80/22804316740/snakeplay/18770
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/GQj",Premiere 4 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22174
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/3yh",Premiere 4 HD
-http://psrv.io:80/22804316740/snakeplay/18590
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/rHH",Premiere 4 SD
-http://psrv.io:80/22804316740/snakeplay/18591
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/9fk",Premiere 5 FHD
-http://psrv.io:80/22804316740/snakeplay/18769
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/gzL",Premiere 5 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22173
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/mTm",Premiere 5 HD
-http://psrv.io:80/22804316740/snakeplay/18588
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/EKB",Premiere 5 SD
-http://psrv.io:80/22804316740/snakeplay/18589
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/MWj",Premiere 6 FHD
-http://psrv.io:80/22804316740/snakeplay/18768
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zX5",Premiere 6 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22172
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/6nM",Premiere 6 HD
-http://psrv.io:80/22804316740/snakeplay/18586
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/QT6",Premiere 6 SD
-http://psrv.io:80/22804316740/snakeplay/18587
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/hJk",Premiere 7 FHD
-http://psrv.io:80/22804316740/snakeplay/18767
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/zwc",Premiere 7 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22171
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/xrN",Premiere 7 HD
-http://psrv.io:80/22804316740/snakeplay/18584
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/1i8",Premiere 7 SD
-http://psrv.io:80/22804316740/snakeplay/18585
-#EXTINF:-1 group-title="Canais | Premiere",Premiere 8 SD
-http://psrv.io:80/22804316740/snakeplay/28064
-#EXTINF:-1 group-title="Canais | Premiere",Premiere 9 SD
-http://psrv.io:80/22804316740/snakeplay/28063
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Jtt",Premiere Clubes 4K
-http://psrv.io:80/22804316740/snakeplay/18438
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/A2U",Premiere Clubes FHD
-http://psrv.io:80/22804316740/snakeplay/18766
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/Ke5",Premiere Clubes FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22170
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/CQb",Premiere Clubes HD
-http://psrv.io:80/22804316740/snakeplay/18582
-#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://z4.vc/URo",Premiere Clubes SD
-http://psrv.io:80/22804316740/snakeplay/18583
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/XRY",Prime Box Brazil FHD
-http://psrv.io:80/22804316740/snakeplay/18804
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/3WB",Prime Box Brazil SD
-http://psrv.io:80/22804316740/snakeplay/18581
-#EXTINF:-1 group-title="Canais | Internacionais",PROFIT RO HD
-http://psrv.io:80/22804316740/snakeplay/28040
-#EXTINF:-1 group-title="Canais | Internacionais",Realitatea TV
-http://psrv.io:80/22804316740/snakeplay/28043
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/PJi",Record News FHD
-http://psrv.io:80/22804316740/snakeplay/18803
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/s1i",Record News FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25204
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/Ncd",Record News HD
-http://psrv.io:80/22804316740/snakeplay/18577
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/JOU",Record News SD
-http://psrv.io:80/22804316740/snakeplay/18578
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Tv1",RecordTV Cabralia BA HD
-http://psrv.io:80/22804316740/snakeplay/18496
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/oth",RecordTV Cabralia BA SD
-http://psrv.io:80/22804316740/snakeplay/18495
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/mF2",RecordTV DF HD
-http://psrv.io:80/22804316740/snakeplay/18494
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/m2C",RecordTV MG HD
-http://psrv.io:80/22804316740/snakeplay/18501
-#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://z4.vc/xeN",RecordTV News SD
-http://psrv.io:80/22804316740/snakeplay/22216
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Kvw",RecordTV PR HD
-http://psrv.io:80/22804316740/snakeplay/22471
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/P7d",RecordTV Rio FHD
-http://psrv.io:80/22804316740/snakeplay/18748
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/iZP",RecordTV Rio HD
-http://psrv.io:80/22804316740/snakeplay/18503
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/IXu",RecordTV RS HD
-http://psrv.io:80/22804316740/snakeplay/18492
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/Kvw",RecordTV Sao Jose Rio Preto HD
-http://psrv.io:80/22804316740/snakeplay/29021
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/qPi",RecordTV SD
-http://psrv.io:80/22804316740/snakeplay/22277
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/vRV",RecordTV Sergipe HD
-http://psrv.io:80/22804316740/snakeplay/22474
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/vUq",RecordTV SP FHD
-http://psrv.io:80/22804316740/snakeplay/18765
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/DDD",RecordTV SP FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25221
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MsE",RecordTV SP HD
-http://psrv.io:80/22804316740/snakeplay/18575
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/BKM",RecordTV SP SD
-http://psrv.io:80/22804316740/snakeplay/18579
-#EXTINF:-1 group-title="Canais | Internacionais",RED BULL TV
-http://psrv.io:80/22804316740/snakeplay/26426
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/RnA",Rede Brasil SD
-http://psrv.io:80/22804316740/snakeplay/18574
-#EXTINF:-1 group-title="Canais | Religiosos",Rede Gospel FHD
-http://psrv.io:80/22804316740/snakeplay/28398
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/frB",Rede Vida FHD
-http://psrv.io:80/22804316740/snakeplay/18750
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/rJP",Rede Vida HD
-http://psrv.io:80/22804316740/snakeplay/18504
-#EXTINF:-1 group-title="Canais | Religiosos" tvg-logo="http://z4.vc/DPy",Rede Vida SD
-http://psrv.io:80/22804316740/snakeplay/18571
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/tkR",RedeTV! FHD
-http://psrv.io:80/22804316740/snakeplay/18751
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/heG",RedeTV! HD
-http://psrv.io:80/22804316740/snakeplay/18572
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/lHy",RedeTV! SD
-http://psrv.io:80/22804316740/snakeplay/18573
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/SKJ",REDETV! [4K]
-http://psrv.io:80/22804316740/snakeplay/26183
-#EXTINF:-1 group-title="Canais | Religiosos",RIT SD
-http://psrv.io:80/22804316740/snakeplay/28403
-#EXTINF:-1 group-title="Canais | Internacionais",[US] CBSN
-http://psrv.io:80/22804316740/snakeplay/26433
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/RXH",SBT FHD
-http://psrv.io:80/22804316740/snakeplay/18764
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/G2I",SBT HD
-http://psrv.io:80/22804316740/snakeplay/18569
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/okI",SBT PR SD
-http://psrv.io:80/22804316740/snakeplay/22470
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/oyy",SBT RJ HD
-http://psrv.io:80/22804316740/snakeplay/22458
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MSJ",SBT SD
-http://psrv.io:80/22804316740/snakeplay/18570
-#EXTINF:-1 group-title="Canais | Variedades",Shop Time HD
-http://psrv.io:80/22804316740/snakeplay/28404
-#EXTINF:-1 group-title="Canais | Internacionais",SIC PORTUGAL SD
-http://psrv.io:80/22804316740/snakeplay/26437
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/YP8",Sony FHD
-http://psrv.io:80/22804316740/snakeplay/18850
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/FM8",Sony FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25315
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/hkn",Sony HD
-http://psrv.io:80/22804316740/snakeplay/18714
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/npa",Sony SD
-http://psrv.io:80/22804316740/snakeplay/18715
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/kaZ",Sony SD
-http://psrv.io:80/22804316740/snakeplay/22331
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/hBI",Space FHD
-http://psrv.io:80/22804316740/snakeplay/18802
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/ao2",Space FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22169
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/EPt",Space HD
-http://psrv.io:80/22804316740/snakeplay/18564
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/zXZ",Space SD
-http://psrv.io:80/22804316740/snakeplay/18565
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/t2m",SPACE [4K]
-http://psrv.io:80/22804316740/snakeplay/27131
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/JSJ",SporTV 2 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22168
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/7lY",SporTV 2 HD
-http://psrv.io:80/22804316740/snakeplay/18561
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/P0b",SporTV 2 SD
-http://psrv.io:80/22804316740/snakeplay/18562
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/dyY",SporTV 3 FHD
-http://psrv.io:80/22804316740/snakeplay/18762
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Ya4",SporTV 3 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22167
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/PUQ",SporTV 3 HD
-http://psrv.io:80/22804316740/snakeplay/18559
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/GGG",SporTV 3 SD
-http://psrv.io:80/22804316740/snakeplay/18560
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/y9H",SporTV 4K
-http://psrv.io:80/22804316740/snakeplay/18439
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/SlI",SporTV FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22166
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/ygd",SporTV HD
-http://psrv.io:80/22804316740/snakeplay/18558
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/Ffl",SporTV SD
-http://psrv.io:80/22804316740/snakeplay/18563
-#EXTINF:-1 group-title="Canais | SporTV" tvg-logo="http://z4.vc/tDf",SPORTV [4K]
-http://psrv.io:80/22804316740/snakeplay/26190
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/AiX",Studio Universal FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22165
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/IU1",Studio Universal HD
-http://psrv.io:80/22804316740/snakeplay/18556
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6ft",Studio Universal SD
-http://psrv.io:80/22804316740/snakeplay/18557
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/7Na",Syfy FHD
-http://psrv.io:80/22804316740/snakeplay/18800
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/j1e",Syfy FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22133
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yWZ",Syfy HD
-http://psrv.io:80/22804316740/snakeplay/18566
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/yZB",Syfy SD
-http://psrv.io:80/22804316740/snakeplay/18567
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/RDY",TBS FHD
-http://psrv.io:80/22804316740/snakeplay/18799
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lAu",TBS FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22164
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/lL4",TBS HD
-http://psrv.io:80/22804316740/snakeplay/18554
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/6rM",TBS SD
-http://psrv.io:80/22804316740/snakeplay/18555
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/9cn",TCM SD
-http://psrv.io:80/22804316740/snakeplay/18553
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cyv",Telecine Action FHD
-http://psrv.io:80/22804316740/snakeplay/18760
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/bKl",Telecine Action FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22163
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/wYg",Telecine Action HD
-http://psrv.io:80/22804316740/snakeplay/18551
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/2ne",Telecine Action SD
-http://psrv.io:80/22804316740/snakeplay/18552
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/KyT",Telecine Cult FHD
-http://psrv.io:80/22804316740/snakeplay/18798
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/JWO",Telecine Cult FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22162
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/cuv",Telecine Cult HD
-http://psrv.io:80/22804316740/snakeplay/18549
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/BeC",Telecine Cult SD
-http://psrv.io:80/22804316740/snakeplay/18550
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/d5H",Telecine Fun FHD
-http://psrv.io:80/22804316740/snakeplay/18759
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/7vJ",Telecine Fun HD
-http://psrv.io:80/22804316740/snakeplay/18547
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/Sq4",Telecine Pipoca FHD
-http://psrv.io:80/22804316740/snakeplay/18758
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/dl3",Telecine Pipoca FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22160
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/8dT",Telecine Pipoca HD
-http://psrv.io:80/22804316740/snakeplay/18545
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/qp8",Telecine Pipoca SD
-http://psrv.io:80/22804316740/snakeplay/18546
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/ZYg",Telecine Premium FHD
-http://psrv.io:80/22804316740/snakeplay/18757
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/4S2",Telecine Premium FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22159
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/RwJ",Telecine Premium HD
-http://psrv.io:80/22804316740/snakeplay/18543
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jgo",Telecine Premium SD
-http://psrv.io:80/22804316740/snakeplay/18544
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/lMo",Telecine Touch FHD
-http://psrv.io:80/22804316740/snakeplay/18756
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/OhL",Telecine Touch FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22158
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/jJj",Telecine Touch HD
-http://psrv.io:80/22804316740/snakeplay/18541
-#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://z4.vc/c1M",Telecine Touch SD
-http://psrv.io:80/22804316740/snakeplay/18542
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/poc",Terra Viva SD
-http://psrv.io:80/22804316740/snakeplay/18540
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/a9V",TLC FHD
-http://psrv.io:80/22804316740/snakeplay/18797
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/WoP",TLC FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22128
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fUs",TLC HD
-http://psrv.io:80/22804316740/snakeplay/18538
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/r69",TLC SD
-http://psrv.io:80/22804316740/snakeplay/18539
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/RrC",TNT FHD
-http://psrv.io:80/22804316740/snakeplay/18796
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94U",TNT FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22157
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/C6Y",TNT HD
-http://psrv.io:80/22804316740/snakeplay/18536
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/VGk",TNT SD
-http://psrv.io:80/22804316740/snakeplay/18537
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/cM3",TNT Series FHD
-http://psrv.io:80/22804316740/snakeplay/18795
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/KEC",TNT Series FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22156
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/CVR",TNT Series HD
-http://psrv.io:80/22804316740/snakeplay/18534
-#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://z4.vc/SDg",TNT [4K]
-http://psrv.io:80/22804316740/snakeplay/26186
-#EXTINF:-1 group-title="Canais | Variedades",Travel Box Brasil FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/25217
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/SHx",Globo EPTV Ribeirão Preto
-http://psrv.io:80/22804316740/snakeplay/18522
-#EXTINF:-1 group-title="Canais | Documentários" tvg-logo="http://z4.vc/67c",TruTV SD
-http://psrv.io:80/22804316740/snakeplay/18523
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/76t",TV Anhaguera FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22124
-#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://z4.vc/76t",TV Anhaguera HD
-http://psrv.io:80/22804316740/snakeplay/28062
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/0Eb",TV Aparecida SD
-http://psrv.io:80/22804316740/snakeplay/18530
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/XKO",Tv Aratu SBT Bahia HD
-http://psrv.io:80/22804316740/snakeplay/28059
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/PVk",TV Camara SD
-http://psrv.io:80/22804316740/snakeplay/18528
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/MJK",TV Cultura FHD
-http://psrv.io:80/22804316740/snakeplay/18752
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/BEU",TV Cultura HD
-http://psrv.io:80/22804316740/snakeplay/18505
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/7FM",TV Cultura SD
-http://psrv.io:80/22804316740/snakeplay/18506
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/AME",TV Escola SD
-http://psrv.io:80/22804316740/snakeplay/18527
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/ARG",TV Gazeta SP HD
-http://psrv.io:80/22804316740/snakeplay/18526
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/VtA",TV Justica SD
-http://psrv.io:80/22804316740/snakeplay/18531
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo FHD
-http://psrv.io:80/22804316740/snakeplay/28076
-#EXTINF:-1 group-title="Canais | Religiosos",TV Novo Tempo SD
-http://psrv.io:80/22804316740/snakeplay/28075
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/S4M",TV Ra-Tim-Bum FHD
-http://psrv.io:80/22804316740/snakeplay/18793
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/I7O",TV Ra-Tim-Bum FHD
-http://psrv.io:80/22804316740/snakeplay/25256
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/0Yb",TV Ra-Tim-Bum HD
-http://psrv.io:80/22804316740/snakeplay/18524
-#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://z4.vc/zvq",TV Ra-Tim-Bum SD
-http://psrv.io:80/22804316740/snakeplay/18525
-#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://z4.vc/HLw",TV Senado SD
-http://psrv.io:80/22804316740/snakeplay/18532
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 1 [TESTE]
-http://psrv.io:80/22804316740/snakeplay/27893
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 2 [TESTE]
-http://psrv.io:80/22804316740/snakeplay/27894
-#EXTINF:-1 group-title="Canais | Internacionais",TVR 3 [TESTE]
-http://psrv.io:80/22804316740/snakeplay/27895
-#EXTINF:-1 group-title="Canais | Internacionais",TVR CLUJ
-http://psrv.io:80/22804316740/snakeplay/28047
-#EXTINF:-1 group-title="Canais | Abertos",TVR Craiova
-http://psrv.io:80/22804316740/snakeplay/28048
-#EXTINF:-1 group-title="Canais | Internacionais",TVR Moldova [TESTE]
-http://psrv.io:80/22804316740/snakeplay/27896
-#EXTINF:-1 group-title="Canais | Internacionais",TVR Targu Mures
-http://psrv.io:80/22804316740/snakeplay/28049
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/94M",Universal Channel FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22155
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/0j9",Universal Channel HD
-http://psrv.io:80/22804316740/snakeplay/18520
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/HlB",Universal Channel SD
-http://psrv.io:80/22804316740/snakeplay/22253
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/xf5",VH1 FHD
-http://psrv.io:80/22804316740/snakeplay/18791
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/InM",VH1 FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22154
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/6fr",VH1 HD
-http://psrv.io:80/22804316740/snakeplay/18518
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Xhe",VH1 MegaHits SD
-http://psrv.io:80/22804316740/snakeplay/18517
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/KZh",VH1 SD
-http://psrv.io:80/22804316740/snakeplay/22252
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/VCv",Viva FHD
-http://psrv.io:80/22804316740/snakeplay/18755
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/LVI",Viva HD
-http://psrv.io:80/22804316740/snakeplay/18515
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/Pte",Viva SD
-http://psrv.io:80/22804316740/snakeplay/18516
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/4dc",Warner Channel FHD
-http://psrv.io:80/22804316740/snakeplay/18790
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/i3M",Warner Channel FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22153
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/W7o",Warner Channel HD
-http://psrv.io:80/22804316740/snakeplay/18513
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://z4.vc/QRs",Warner Channel SD
-http://psrv.io:80/22804316740/snakeplay/18514
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/HQF",Woohoo FHD [H265]
-http://psrv.io:80/22804316740/snakeplay/22127
-#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://z4.vc/fUJ",Woohoo SD
-http://psrv.io:80/22804316740/snakeplay/18512
-#EXTINF:-1 group-title="Canais | Infantis",ZooMoo SD
-http://psrv.io:80/22804316740/snakeplay/28199
+#EXTINF:-1 ,Unknown_1
+http://chronostv.com:80/Aline9090/Aline8080/68836
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/1024px-2015_Discovery_theater_HD_logo.svg.png",Discovery theater HD²
+http://chronostv.com:80/Aline9090/Aline8080/72640
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://www.igrejauniversal.pt/wp-content/uploads/2020/03/iurd-tv2020ok2.png",Igreja Universal RD SD¹
+http://chronostv.com:80/Aline9090/Aline8080/122
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/ae.png",A&E HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68835
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/ae.png",A&E HD²
+http://chronostv.com:80/Aline9090/Aline8080/72869
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/ae.png",A&E SD²
+http://chronostv.com:80/Aline9090/Aline8080/72439
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png",AMC HD²
+http://chronostv.com:80/Aline9090/Aline8080/72627
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/AMC2019.png",AMC SD²
+http://chronostv.com:80/Aline9090/Aline8080/72417
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/animalplanet.png",Animal Planet SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68790
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/animalplanet.png",Animal Planet HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68789
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/animalplanet.png",Animal Planet HD²
+http://chronostv.com:80/Aline9090/Aline8080/72644
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/animalplanet.png",Animal Planet SD²
+http://chronostv.com:80/Aline9090/Aline8080/72425
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/arte1.png",Arte 1 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69149
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/arte1.png",Arte 1 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69148
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/arte1.png",ARTE 1 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72629
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/axn.png",AXN SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68840
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/axn.png",AXN HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68839
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/axn.png",AXN HD²
+http://chronostv.com:80/Aline9090/Aline8080/72626
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/axn.png",AXN SD²
+http://chronostv.com:80/Aline9090/Aline8080/72440
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/babytv.png",Baby HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69031
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/babytv.png",Baby TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69032
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/babytv.png",Baby TV SD²
+http://chronostv.com:80/Aline9090/Aline8080/72418
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/21877c7d635bfc5aea90047b19e87d41.png",Balneário Camboriú
+http://chronostv.com:80/Aline9090/Aline8080/75896
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/bandminas.png",Band SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68733
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/bandminas.png",Band HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68729
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/bandminas.png",Band HD²
+http://chronostv.com:80/Aline9090/Aline8080/72570
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/bandnews.png",Band News SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69072
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/bandnews.png",Band News HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69071
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/bandnews.png",BAND NEWS HD²
+http://chronostv.com:80/Aline9090/Aline8080/72630
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/bandsports.png",Band Sports SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69110
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/bandsports.png",Band Sports HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69109
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/bandsports.png",Band Sports HD²
+http://chronostv.com:80/Aline9090/Aline8080/72621
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/bandsports.png",Band Sports SD²
+http://chronostv.com:80/Aline9090/Aline8080/72448
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/bandminas.png",Band SD²
+http://chronostv.com:80/Aline9090/Aline8080/72419
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/bis.png",BIS SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69152
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/bis.png",BIS HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69151
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/bis.png",BIS HD²
+http://chronostv.com:80/Aline9090/Aline8080/72625
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/bis.png",BIS SD²
+http://chronostv.com:80/Aline9090/Aline8080/72420
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://cdn.mitvstatic.com/channels/br_boa-vontade-tv_m.png",Boa Vontade SD²
+http://chronostv.com:80/Aline9090/Aline8080/72421
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69035
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69034
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang HD²
+http://chronostv.com:80/Aline9090/Aline8080/72571
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png",Boomerang SD²
+http://chronostv.com:80/Aline9090/Aline8080/72466
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalbrasil.png",Canal  Brasil SD²
+http://chronostv.com:80/Aline9090/Aline8080/72429
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalbrasil.png",Canal Brasil SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69156
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalbrasil.png",Canal Brasil HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69155
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalbrasil.png",Canal Brasil HD²
+http://chronostv.com:80/Aline9090/Aline8080/72631
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://sba1.com/img/canais/cb.png",Canal do Boi SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72489
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://www.canalrural.com.br/wp-content/uploads/2018/08/canal_rural.png",Canal Rural SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72490
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://skyassineonline.com.br/img/channels/lg-24-canal-woohoo.png",Canal Woohoo SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71283
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_png_v140517.png",Canção Nova SD¹
+http://chronostv.com:80/Aline9090/Aline8080/29
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://img.cancaonova.com/cnimages/especiais/uploads/sites/11/2014/09/marca_cancao_nova_png_v140517.png",Canção Nova SD²
+http://chronostv.com:80/Aline9090/Aline8080/72441
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/cartoonnetwork.png",Cartoon Network SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69038
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/cartoonnetwork.png",Cartoon Network HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69037
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/cartoonnetwork.png",Cartoon network HD²
+http://chronostv.com:80/Aline9090/Aline8080/72633
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/cartoonnetwork.png",Cartoon network SD²
+http://chronostv.com:80/Aline9090/Aline8080/72467
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Catve.png/400px-Catve.png",CATVE - Cultura PR SD¹
+http://chronostv.com:80/Aline9090/Aline8080/30
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0d14f4b6c83f6bc0fc2766d3602113d0.png",5 FM
+http://chronostv.com:80/Aline9090/Aline8080/75891
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/cheftv.png",Chef TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69159
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/cheftv.png",Chef TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69158
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/cinemax.png",Cinemax SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68843
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/cinemax.png",Cinemax HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68842
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/cinemax.png",CINEMAX HD²
+http://chronostv.com:80/Aline9090/Aline8080/72634
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/cinemax.png",Cinemax SD²
+http://chronostv.com:80/Aline9090/Aline8080/72445
+#EXTINF:-1 group-title="Canais | FHD" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN BRASIL FHD
+http://chronostv.com:80/Aline9090/Aline8080/75841
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Brasil HD¹
+http://chronostv.com:80/Aline9090/Aline8080/75855
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Espanhol SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69075
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Espanhol HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69074
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Internacional SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69078
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Internacional HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69077
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/cnn.png",CNN Internacional²
+http://chronostv.com:80/Aline9090/Aline8080/72422
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/combate.png",COMBATE SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69114
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/combate.png",COMBATE HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69113
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/combate.png",COMBATE HD²
+http://chronostv.com:80/Aline9090/Aline8080/72635
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/combate.png",COMBATE SD²
+http://chronostv.com:80/Aline9090/Aline8080/72430
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/comedycentral.png",Comedy Central SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69162
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/comedycentral.png",Comedy Central HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69161
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/comedycentral.png",Comedy Central HD²
+http://chronostv.com:80/Aline9090/Aline8080/72636
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/comedycentral.png",Comedy Central SD²
+http://chronostv.com:80/Aline9090/Aline8080/72428
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",Copa Catarinense
+http://chronostv.com:80/Aline9090/Aline8080/75949
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",Copa Catarinense 2
+http://chronostv.com:80/Aline9090/Aline8080/75952
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",Copa Catarinense 2 HD
+http://chronostv.com:80/Aline9090/Aline8080/75950
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",Copa Catarinense 2 HD²
+http://chronostv.com:80/Aline9090/Aline8080/75951
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://fcf.com.br/wp-content/uploads/2020/01/CATARINENSE2020-867x1024.jpg",Copa Catarinense HD*
+http://chronostv.com:80/Aline9090/Aline8080/75953
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",Copa do Nordeste
+http://chronostv.com:80/Aline9090/Aline8080/75954
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",Copa Do Nordeste 2
+http://chronostv.com:80/Aline9090/Aline8080/75955
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",Copa Do Nordeste HD
+http://chronostv.com:80/Aline9090/Aline8080/75956
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/19/CopaNordeste2017.png",Copa Do Nordeste HD²
+http://chronostv.com:80/Aline9090/Aline8080/75957
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://www.thesportsdb.com/images/media/league/poster/29qn061551010749.jpg",Copa Libertadores FHD¹
+http://chronostv.com:80/Aline9090/Aline8080/75669
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://www.cdc.gov/coronavirus/2019-ncov/images/COVIDweb_05_mask.png",Coronavirus Dados Atualizado
+http://chronostv.com:80/Aline9090/Aline8080/87079
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalcurta.png",Curta! SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69165
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalcurta.png",Curta! HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69164
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 1 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75096
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 2 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75097
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 3 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75098
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 4 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75099
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 5 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75100
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN 6 (ESPECIAL)
+http://chronostv.com:80/Aline9090/Aline8080/75101
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN FHD
+http://chronostv.com:80/Aline9090/Aline8080/71286
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN Sport 1 HD
+http://chronostv.com:80/Aline9090/Aline8080/75563
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN Sport 2 HD
+http://chronostv.com:80/Aline9090/Aline8080/75562
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN Sport 3 HD
+http://chronostv.com:80/Aline9090/Aline8080/75561
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN Sport 4 HD
+http://chronostv.com:80/Aline9090/Aline8080/75560
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DAZN Sport 5 HD
+http://chronostv.com:80/Aline9090/Aline8080/75559
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DE| Dazn 1 BAR
+http://chronostv.com:80/Aline9090/Aline8080/73652
+#EXTINF:-1 group-title="Canais | Esportes Especiais",DE| Dazn 2 HD BAR
+http://chronostv.com:80/Aline9090/Aline8080/73653
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverychannel.png",Discovery Channel SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68793
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverychannel.png",Discovery Channel HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68792
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverychannel.png",Discovery Channel HD²
+http://chronostv.com:80/Aline9090/Aline8080/72637
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverychannel.png",Discovery Channel SD²
+http://chronostv.com:80/Aline9090/Aline8080/72450
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery h&h SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68799
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery h&h HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68798
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",Discovery h&h HD²
+http://chronostv.com:80/Aline9090/Aline8080/72638
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Discovery_H%26H.png",discovery h&h SD²
+http://chronostv.com:80/Aline9090/Aline8080/72451
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://www.offremedia.com/sites/default/files/styles/270x170_echelle/public/vignette/article/nl1500-logo-id-discovery.png?itok=p-hFtvJw",DISCOVERY ID SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72519
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/investigationdiscovery.png",Discovery ID SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68802
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/investigationdiscovery.png",Discovery ID HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68801
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://www.offremedia.com/sites/default/files/styles/270x170_echelle/public/vignette/article/nl1500-logo-id-discovery.png?itok=p-hFtvJw",Discovery ID HD²
+http://chronostv.com:80/Aline9090/Aline8080/72662
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/discoverykids.png",Discovery Kids SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69041
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/discoverykids.png",Discovery Kids HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69040
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/discoverykids.png",Discovery Kids HD²
+http://chronostv.com:80/Aline9090/Aline8080/72573
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/discoverykids.png",Discovery Kids SD²
+http://chronostv.com:80/Aline9090/Aline8080/72452
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryscience.png",Discovery Science SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68808
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryscience.png",Discovery Science HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68807
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryscience.png",Discovery Science HD²
+http://chronostv.com:80/Aline9090/Aline8080/72639
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryscience.png",discovery science SD³
+http://chronostv.com:80/Aline9090/Aline8080/72506
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverytheater.png",discovery theater SD³
+http://chronostv.com:80/Aline9090/Aline8080/72505
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverytheater.png",Discovery Theather SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68811
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoverytheater.png",Discovery Theather HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68810
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryturbo.png",Discovery Turbo SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68814
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryturbo.png",Discovery Turbo HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68813
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryturbo.png",DISCOVERY TURBO HD²
+http://chronostv.com:80/Aline9090/Aline8080/72574
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryworld.png",Discovery World SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68817
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryworld.png",Discovery World HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68816
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryworld.png",Discovery World HD²
+http://chronostv.com:80/Aline9090/Aline8080/72641
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/discoveryworld.png",discovery world SD³
+http://chronostv.com:80/Aline9090/Aline8080/72507
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneychannel.png",Disney Channel SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69044
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneychannel.png",Disney Channel HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69043
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/87/Disney_Channel_2014.png",Disney Channel HD²
+http://chronostv.com:80/Aline9090/Aline8080/72642
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneychannel.png",Disney Channel SD²
+http://chronostv.com:80/Aline9090/Aline8080/72468
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneychannel.png",Disney Channel SD²
+http://chronostv.com:80/Aline9090/Aline8080/72568
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyjunior.png",Disney JR SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69047
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyjunior.png",Disney JR HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69046
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyjunior.png",Disney JR HD²
+http://chronostv.com:80/Aline9090/Aline8080/72575
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyjunior.png",Disney JR SD²
+http://chronostv.com:80/Aline9090/Aline8080/72423
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyxd.png",Disney XD SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69050
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyxd.png",Disney XD HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69049
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyxd.png",Disney XD HD²
+http://chronostv.com:80/Aline9090/Aline8080/72624
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/disneyxd.png",Disney XD SD²
+http://chronostv.com:80/Aline9090/Aline8080/72517
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://djing.com/images/logo.png",DJing Electronic SD¹
+http://chronostv.com:80/Aline9090/Aline8080/36
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/8/89/DOGTV_Logo.png",DOG TV HD²
+http://chronostv.com:80/Aline9090/Aline8080/72887
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png",DW TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72516
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/e.png",E! SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69169
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/e.png",E! HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69168
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71222
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71223
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 3 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71225
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 3 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71224
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 4 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71227
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 4 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71226
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 5 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71229
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 5 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71228
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 6 HD²
+http://chronostv.com:80/Aline9090/Aline8080/71230
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-MLu8xDPo3GM/XYlDp_EpZVI/AAAAAAABaUU/vdgebefcxCMy8zvZGa_D99g8EWU9lOgggCLcBGAsYHQ/s640/logo_500x500_eiplus.png",EIPLUS 6 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71231
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://televisionadventista.org/images/canal-esperanzatv.png",Esperanza TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71305
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espn.png",ESPN SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69125
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png",ESPN 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69117
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png",ESPN 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69116
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png",ESPN 2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72508
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://1.bp.blogspot.com/-uto56pmxCcQ/XXFWkBk_6OI/AAAAAAABZlU/JYiZAU-1wJgWkDqAw8U2dZVtS17LahKEwCLcBGAs/w1200-h630-p-k-no-nu/ESPN%2B2.png",ESPN 2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72577
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espnbrasil.png",ESPN Brasil SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69120
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espnbrasil.png",ESPN Brasil HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69119
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espnbrasil.png",ESPN Brasil HD²
+http://chronostv.com:80/Aline9090/Aline8080/72576
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espnbrasil.png",Espn Brasil SD²
+http://chronostv.com:80/Aline9090/Aline8080/72469
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espn.png",ESPN HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69124
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espn.png",ESPN HD²
+http://chronostv.com:80/Aline9090/Aline8080/72643
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/espn.png",ESPN SD²
+http://chronostv.com:80/Aline9090/Aline8080/72513
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png",Esporte Interativo SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71221
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png",Esporte Interativo HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71218
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png",Esporte Interativo HD²
+http://chronostv.com:80/Aline9090/Aline8080/71220
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/12/Logotipo_do_Esporte_Interativo.png",Esporte Interativo²
+http://chronostv.com:80/Aline9090/Aline8080/71219
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/777cabf181cf93f0d4659dc36027aec8.jpg",Estádio Beira Rio
+http://chronostv.com:80/Aline9090/Aline8080/75894
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/c7/Fashion_TV_Logo.png",FashionTV HD²
+http://chronostv.com:80/Aline9090/Aline8080/72649
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/fishtv.png",Fish TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69172
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/fishtv.png",Fish TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69171
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/fishtv.png",Fish TV HD²
+http://chronostv.com:80/Aline9090/Aline8080/72648
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/fishtv.png",Fish TV SD²
+http://chronostv.com:80/Aline9090/Aline8080/72432
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/92cf6238562aad7b1ce458a2cb76b614.jpg",Florianópolis - Praia dos Ingleses
+http://chronostv.com:80/Aline9090/Aline8080/75901
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/28987a4ac0e1c027f469ff70d132a5a8.png",FM O Dia
+http://chronostv.com:80/Aline9090/Aline8080/75892
+#EXTINF:-1 group-title="Câmeras | Ao Vivo",FM O DIA TV HD
+http://chronostv.com:80/Aline9090/Aline8080/48
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/foodnetwork.png",Food Network SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69175
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/foodnetwork.png",Food Network HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69174
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/foodnetwork.png",Food Network HD²
+http://chronostv.com:80/Aline9090/Aline8080/72657
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/foodnetwork.png",Food Network²
+http://chronostv.com:80/Aline9090/Aline8080/72471
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxchannel.png",Fox SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68853
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxchannel.png",FOX HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68845
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxchannel.png",FOX HD²
+http://chronostv.com:80/Aline9090/Aline8080/72668
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxlife.png",Fox Life SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68848
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxlife.png",Fox Life HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68847
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxlife.png",Fox Life HD²
+http://chronostv.com:80/Aline9090/Aline8080/72579
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxlife.png",FOX LIFE SD²
+http://chronostv.com:80/Aline9090/Aline8080/72433
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxnews.png",Fox News SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71276
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/foxnews.png",Fox News HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71277
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium1.png",FOX PREMIUM 1 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72669
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium1.png",Fox Premium 1 HD²
+http://chronostv.com:80/Aline9090/Aline8080/68850
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium1.png",FOX PREMIUM 1 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72865
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium1.png",fox Premium 1 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72511
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium2.png",Fox Premium 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68852
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium2.png",Fox Premium 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72580
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxpremium2.png",fox premium 2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72510
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports.png",Fox Sport HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69126
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports.png",Fox Sports SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69131
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69129
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69128
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports 2²
+http://chronostv.com:80/Aline9090/Aline8080/72623
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports HD 2²
+http://chronostv.com:80/Aline9090/Aline8080/72272
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports.png",Fox Sports HD²
+http://chronostv.com:80/Aline9090/Aline8080/72619
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports SD²
+http://chronostv.com:80/Aline9090/Aline8080/72424
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/foxchannel.png",FOX SD²
+http://chronostv.com:80/Aline9090/Aline8080/72472
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/fx.png",FX SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68856
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/fx.png",FX HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68855
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/fx.png",FX HD³
+http://chronostv.com:80/Aline9090/Aline8080/72671
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/fx.png",FX SD²
+http://chronostv.com:80/Aline9090/Aline8080/72434
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/GloobinhoLogo.png",Globinho SD¹
+http://chronostv.com:80/Aline9090/Aline8080/78795
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo  Ribeirão Preto SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71160
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Anhanguera SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71168
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Bahia SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71156
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Brasilia HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71176
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO BRASILIA HD³
+http://chronostv.com:80/Aline9090/Aline8080/72400
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO BRASILIA SD³
+http://chronostv.com:80/Aline9090/Aline8080/72524
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Campinas SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71159
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Centro America HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71195
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Curitiba SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72543
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo EPTV Campinas  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71148
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo EPTV Campinas HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71198
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO EPTV CAMPINAS SD³
+http://chronostv.com:80/Aline9090/Aline8080/72529
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO EPTV RIBEIRAO PRETO SD³
+http://chronostv.com:80/Aline9090/Aline8080/72530
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO EPTV SAO CARLOS SD³
+http://chronostv.com:80/Aline9090/Aline8080/72531
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo EPTV Sul de Minas SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71217
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo EPTV Sul de Minas HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71213
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO GOIAS SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72401
+#EXTINF:-1 group-title="Canais | Dual Áudio",#EXTINF:-1 tvg-id="" tvg-name="GLOBO HD 2 RJ dual audio  $" tvg-logo="http://chronostv.com/logos/img/globo.png
+" group-title="Canais | Dual Áudio",GLOBO HD 2 RJ dual audio  $
+http://chronostv.com:80/Aline9090/Aline8080/72391
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Inter TV Cabugi SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71161
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO INTER TV CABUGI SD³
+http://chronostv.com:80/Aline9090/Aline8080/72533
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Inter TV Grande Minas HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71211
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Lineral Belem SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71170
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Manaus SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71164
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO MATO GROSSO HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72412
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Minas  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71150
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Minas HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71149
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO MINAS HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72410
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO MINAS HD³
+http://chronostv.com:80/Aline9090/Aline8080/72394
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO MINAS SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72523
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/globonews.png",Globo News SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69082
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/globonews.png",Globo News HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69081
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/globonews.png",GLOBO NEWS HD³
+http://chronostv.com:80/Aline9090/Aline8080/72659
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Nordeste  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71152
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Nordeste HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71151
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Nordeste HD³
+http://chronostv.com:80/Aline9090/Aline8080/71177
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Nordeste SD²
+http://chronostv.com:80/Aline9090/Aline8080/71162
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Nordeste SD²
+http://chronostv.com:80/Aline9090/Aline8080/72532
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo NSC Florianopolis SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71204
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo NSC Florianopolis HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71201
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO NSC FLORIANOPOLIS HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72406
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Porto Alegre SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72544
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO RBS HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72408
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RBS Poa SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71209
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RBS Poa HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71208
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RBS Porto Alegre SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71163
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RBS Porto Alegre SD³
+http://chronostv.com:80/Aline9090/Aline8080/72541
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO REDE AMAZONICA MANAUS SD³
+http://chronostv.com:80/Aline9090/Aline8080/72534
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RJ SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72525
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RJ HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71178
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RPC Curitiba  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71165
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RPC Paranaense SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71205
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo RPC Paranaense HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71199
+#EXTINF:-1 group-title="Canais | Globo",#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC TV CURITIBA HD $" tvg-logo="http://chronostv.com/logos/img/globo.png
+" group-title="Canais | Globo",GLOBO RPC TV CURITIBA HD $
+http://chronostv.com:80/Aline9090/Aline8080/72399
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo SP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71203
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo SP HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71193
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo SP HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72397
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo SP SD²
+http://chronostv.com:80/Aline9090/Aline8080/71166
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo SP SD³
+http://chronostv.com:80/Aline9090/Aline8080/71167
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Tem Bauru SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71171
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo Tribuna Santos SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71173
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Anhanguera  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71155
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV ANHANGUERA GOIANIA SD³
+http://chronostv.com:80/Aline9090/Aline8080/72526
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Bahia HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71194
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV BAHIA SD³
+http://chronostv.com:80/Aline9090/Aline8080/72535
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Bahia SD²
+http://chronostv.com:80/Aline9090/Aline8080/71169
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Belem SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71206
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Belem HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71191
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV Cambugi SD³
+http://chronostv.com:80/Aline9090/Aline8080/72392
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV CENTRO AMERICA CUIABA SD³
+http://chronostv.com:80/Aline9090/Aline8080/72536
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV LIBERAL BELEM SD³
+http://chronostv.com:80/Aline9090/Aline8080/72537
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Mirante SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71157
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Mirante HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71202
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV MIRANTE HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72414
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Morena SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71207
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Morena HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71197
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV TEM BAURU SD³
+http://chronostv.com:80/Aline9090/Aline8080/72527
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Tem Sorocaba SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71172
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV TEM SOROCABA SD³
+http://chronostv.com:80/Aline9090/Aline8080/72528
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV TRIBUNA SANTOS SD³
+http://chronostv.com:80/Aline9090/Aline8080/72539
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Vanguarda SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71174
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV VANGUARDA S. J. DOS CAMPOS SD³
+http://chronostv.com:80/Aline9090/Aline8080/72538
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Verdades Mares Fortaleza SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71175
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Verdes Mares SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71158
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",Globo TV Verdes Mares HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71196
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO TV VERDES MARES SD³
+http://chronostv.com:80/Aline9090/Aline8080/72540
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO VERDES MARES HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72404
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GLOBO VERDES MARES HD³
+http://chronostv.com:80/Aline9090/Aline8080/72393
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",GloboTV Anhanguera HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71200
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloob.png",Gloob HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69052
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloob.png",GLOOB HD²
+http://chronostv.com:80/Aline9090/Aline8080/72618
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloob.png",Gloob SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69053
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloob.png",Gloob SD²
+http://chronostv.com:80/Aline9090/Aline8080/72461
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloobinho.png",Gloobinho SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69056
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloobinho.png",Gloobinho HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69055
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/gloobinho.png",Gloobinho SD²
+http://chronostv.com:80/Aline9090/Aline8080/71275
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/gnt.png",GNT SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69179
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/gnt.png",GNT HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69178
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/gnt.png",GNT SD²
+http://chronostv.com:80/Aline9090/Aline8080/72453
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/GpkdMMK.png",Gospel Cartoon SD¹
+http://chronostv.com:80/Aline9090/Aline8080/118
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="http://tvonlinehd.org/img/canais/gospel-movie-tv.png",Gospel Movie TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/119
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ98z_6X3YMivwryNdN0liiiIjJu-ZnoxreyEMMyTmZsuRbUeDR",H!T Music SD¹
+http://chronostv.com:80/Aline9090/Aline8080/120
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history2.png",H2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68820
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history2.png",H2 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72665
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history2.png",H2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/68821
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history2.png",H2 SD³
+http://chronostv.com:80/Aline9090/Aline8080/72491
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo.png",HBO SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69026
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo.png",HBO  HD²
+http://chronostv.com:80/Aline9090/Aline8080/72581
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo2.png",HBO 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69017
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo2.png",HBO 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69016
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo2.png",HBO 2 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72582
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo2.png",HBO 2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72454
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbofamily.png",HBO Family SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69020
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbofamily.png",HBO Family HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69019
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbofamily.png",HBO Family HD²
+http://chronostv.com:80/Aline9090/Aline8080/72670
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbofamily.png",HBO Family SD²
+http://chronostv.com:80/Aline9090/Aline8080/72497
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo.png",HBO HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69022
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hboplus.png",HBO Plus SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69025
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hboplus.png",HBO Plus HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69024
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hboplus.png",HBO Plus HD²
+http://chronostv.com:80/Aline9090/Aline8080/72583
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hboplus.png",HBO Plus SD²
+http://chronostv.com:80/Aline9090/Aline8080/72455
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbosignature.png",HBO Signature SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69029
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbosignature.png",HBO Signature HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69028
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbosignature.png",HBO Signature HD²
+http://chronostv.com:80/Aline9090/Aline8080/72660
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbosignature.png",HBO Signature SD²
+http://chronostv.com:80/Aline9090/Aline8080/72496
+#EXTINF:-1 group-title="Canais | HBO" tvg-logo="http://chronostv.com/logos/img/hbo.png",HBO SD²
+http://chronostv.com:80/Aline9090/Aline8080/72462
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/hgtv.png",HGTV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68795
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/hgtv.png",HGTV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68796
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history.png",History SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68830
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history.png",History HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68829
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="https://www.history.com/.image/cs_srgb%2Cq_auto:good/MTU1MTMxNjMyMzU1OTI3NTg1/logo-nav.png",History HD²
+http://chronostv.com:80/Aline9090/Aline8080/72584
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/history.png",History SD²
+http://chronostv.com:80/Aline9090/Aline8080/72426
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/maisglobosat.png",I SAT SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69182
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/maisglobosat.png",i SAT HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69181
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://cdn.mitvstatic.com/channels/br_ideal-tv_m.png",Ideal TV
+http://chronostv.com:80/Aline9090/Aline8080/72473
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://lh3.googleusercontent.com/3mzqEx5BX2dKThrJUEBO2pwd-O4WZndVyCBNlJdQQ8T6SoNlBOhMqVG2QpCFqQTDRqU",Igreja Mundial PD SD¹
+http://chronostv.com:80/Aline9090/Aline8080/121
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://ewsat.com/img/INTER.png",Inter TV dos Vales SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71301
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://s2.glbimg.com/FfDSGtP6CgEUrqKm9B4CqIDDGco=/s.glbimg.com/og/rg/f/original/2015/10/23/logo.png",Inter TV Grande Minas
+http://chronostv.com:80/Aline9090/Aline8080/71297
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 10
+http://chronostv.com:80/Aline9090/Aline8080/75568
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 11
+http://chronostv.com:80/Aline9090/Aline8080/75569
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 6
+http://chronostv.com:80/Aline9090/Aline8080/75564
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 7
+http://chronostv.com:80/Aline9090/Aline8080/75565
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 8
+http://chronostv.com:80/Aline9090/Aline8080/75566
+#EXTINF:-1 group-title="Canais | Esportes Especiais",IT: Dazn 9
+http://chronostv.com:80/Aline9090/Aline8080/75567
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0b1a83eeecd18c8ce776750e8b208fdd.png",Las Vegas Strip
+http://chronostv.com:80/Aline9090/Aline8080/75899
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/lifetime.png",Lifetime SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69186
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/lifetime.png",Lifetime HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69185
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/lifetime.png",Lifetime SD²
+http://chronostv.com:80/Aline9090/Aline8080/72474
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://cdn.evbuc.com/images/95361241/423808993671/1/logo.20200304-172717",LIVE 1 CP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72675
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://cdn.evbuc.com/images/95361241/423808993671/1/logo.20200304-172717",LIVE 2 ES SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72664
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://tvonlinehd.org/img/canais/524cf168122597e600dd224f0b880e94.png",LivreTV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/555
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png",M2O TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/123
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/1200px-Radio_m2o_-_Logo_2019.svg.png",M2O TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/551
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Mais_Globosat_logo_2016.svg/1280px-Mais_Globosat_logo_2016.svg.png",Mais Globo Sat SD³
+http://chronostv.com:80/Aline9090/Aline8080/72465
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/maisglobosat.png",Mais Globosat SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69189
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/maisglobosat.png",Mais Globosat HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69188
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://lh3.googleusercontent.com/proxy/6ICIBePBjb-o513oAS28R4V4Bv1gCKZYO2MFXQywTl160-paRW1It9PynkPTeTOKZZCZAQosgJSrPFEbbfyF837oyDJ4fdt8425_dr9bm2fquk_3u2_8148HG7b_",MasterTV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/557
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/max.png",Max SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68863
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/max.png",MAX HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68859
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxprime.png",Max Prime SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68862
+#EXTINF:-1 group-title="Canais | H.265" tvg-logo="http://chronostv.com/logos/img/maxprime.png",Max Prime H.265*
+http://chronostv.com:80/Aline9090/Aline8080/72853
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxprime.png",Max Prime HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68861
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxprime.png",Max Prime HD²
+http://chronostv.com:80/Aline9090/Aline8080/72585
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxprime.png",MAX PRIME HD³
+http://chronostv.com:80/Aline9090/Aline8080/72646
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxprime.png",MAX PRIME SD²
+http://chronostv.com:80/Aline9090/Aline8080/72475
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxup.png",Max UP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68866
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/maxup.png",Max UP HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68865
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/max.png",MAX SD²
+http://chronostv.com:80/Aline9090/Aline8080/72431
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://tvonlinehd.org/img/canais/e51437d415f113a03689152939bd412c.png",MEGA TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72521
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/megapix.png",Megapix SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68869
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/megapix.png",Megapix HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68868
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/megapix.png",Megapix HD²
+http://chronostv.com:80/Aline9090/Aline8080/72650
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/megapix.png",MEGAPIX SD²
+http://chronostv.com:80/Aline9090/Aline8080/72447
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://s3.spbtv.com/spbtv-world-production/c519e1abff2c956a87f5.png",Miami TV HD ¹
+http://chronostv.com:80/Aline9090/Aline8080/72586
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://cdn.tv-programme.com/pic/equipes/competitions/199.png",MLB HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72587
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/mtv.png",MTV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69192
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/mtv.png",MTV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69191
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/mtv.png",MTV HD²
+http://chronostv.com:80/Aline9090/Aline8080/72588
+#EXTINF:-1 group-title="Canais | Variedades",MTV LIVE HD²
+http://chronostv.com:80/Aline9090/Aline8080/72589
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/mtv.png",MTV SD²
+http://chronostv.com:80/Aline9090/Aline8080/72520
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/multishow.png",Multishow SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69195
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/multishow.png",Multishow HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69194
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/multishow.png",Multishow SD²
+http://chronostv.com:80/Aline9090/Aline8080/72464
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0e38cd5526d5729065b538d59a66b03d.png",Muro das Lamentações
+http://chronostv.com:80/Aline9090/Aline8080/75898
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/musicboxbrasil.png",Music Box Brasil SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69198
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/musicboxbrasil.png",Music Box Brasil HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69197
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/musicboxbrasil.png",Music Box Brasil SD²
+http://chronostv.com:80/Aline9090/Aline8080/72561
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlVI89JRxo9Ahvu5XUAp4GCsKm-euX81-NqEffWNhcXvRA6dZw",Musictop SD¹
+http://chronostv.com:80/Aline9090/Aline8080/127
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeo.png",Natgeo SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68824
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeo.png",Natgeo HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68823
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeo.png",NatGeo HD²
+http://chronostv.com:80/Aline9090/Aline8080/72666
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/natgeokids.png",Natgeo Kids SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69059
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/natgeokids.png",Natgeo Kids HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69058
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/natgeokids.png",Natgeo Kids HD²
+http://chronostv.com:80/Aline9090/Aline8080/72647
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/natgeokids.png",Natgeo Kids SD²
+http://chronostv.com:80/Aline9090/Aline8080/72569
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeowild.png",Natgeo Wild SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68827
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeowild.png",Natgeo Wild HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68826
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeowild.png",NATGEO WILD HD²
+http://chronostv.com:80/Aline9090/Aline8080/72663
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeowild.png",Natgeo Wild SD²
+http://chronostv.com:80/Aline9090/Aline8080/72476
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/natgeo.png",NatGeo SD²
+http://chronostv.com:80/Aline9090/Aline8080/72512
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK World HD²
+http://chronostv.com:80/Aline9090/Aline8080/72620
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NHK_Educational_TV_logo.svg/1200px-NHK_Educational_TV_logo.svg.png",NHK SD²
+http://chronostv.com:80/Aline9090/Aline8080/72463
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nickjr.png",Nick JR SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69064
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nickjr.png",Nick JR HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69063
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nickjr.png",Nick JR HD²
+http://chronostv.com:80/Aline9090/Aline8080/72590
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nickjr.png",Nick JR SD²
+http://chronostv.com:80/Aline9090/Aline8080/72477
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nick.png",Nickelodeon HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69061
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nick.png",Nickelodeon HD²
+http://chronostv.com:80/Aline9090/Aline8080/72656
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nick.png",Nickelodeon SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69065
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/nick.png",Nickelodeon SD²
+http://chronostv.com:80/Aline9090/Aline8080/72567
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://cdn.mitvstatic.com/channels/br_nsc-tv-blumenau-hd_l.png",NSC TV Blumenau SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71298
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/off.png",OFF SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69204
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/off.png",OFF HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69203
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/off.png",OFF SD²
+http://chronostv.com:80/Aline9090/Aline8080/72492
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e64a0f1a2a1d4649485768da7511f839.jpg",Panorâmica Florianópolis
+http://chronostv.com:80/Aline9090/Aline8080/75902
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/paramountchannel.png",Paramount SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69207
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/paramountchannel.png",Paramount Channel HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69206
+#EXTINF:-1 group-title="Canais | Dual Áudio",PARAMOUNT DUAL AUDIO HD
+http://chronostv.com:80/Aline9090/Aline8080/72672
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/paramountchannel.png",Paramount²
+http://chronostv.com:80/Aline9090/Aline8080/72456
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://www.sankhya.com.br/wp-content/uploads/2018/10/playkidslogo.png",Play Kids HD¹
+http://chronostv.com:80/Aline9090/Aline8080/78796
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/playtv.png",Play TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69210
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/playtv.png",Play TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69209
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/playtv.png",Play TV SD²
+http://chronostv.com:80/Aline9090/Aline8080/72435
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://skyassineonline.com.br/img/channels/lg-21-canal-polishop.png",POLISHOP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72522
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f1af60306ec4f464b05dd7d1e8c1f116.jpg",Ponte Internacional da Amizade
+http://chronostv.com:80/Aline9090/Aline8080/75895
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/986e32f8b8e6b68a357006493b055995.jpg",Praia Barra Da Lagoa
+http://chronostv.com:80/Aline9090/Aline8080/75903
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2e6b5e076c4b5196ec83dea5a9b2f54e.png",Praia de Tramandaí
+http://chronostv.com:80/Aline9090/Aline8080/75897
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIER CLUBE 1 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72591
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 1 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72486
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69088
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69087
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 2 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72593
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 2²
+http://chronostv.com:80/Aline9090/Aline8080/72499
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 3 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69091
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 3 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69090
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 3 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72594
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 3²
+http://chronostv.com:80/Aline9090/Aline8080/72498
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 4 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69094
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 4 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69093
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 4 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72592
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 4 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72478
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 5 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69097
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 5 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69096
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 5 HD²
+http://chronostv.com:80/Aline9090/Aline8080/72595
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 5²
+http://chronostv.com:80/Aline9090/Aline8080/72500
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 6 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69100
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 6  HD²
+http://chronostv.com:80/Aline9090/Aline8080/72596
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 6 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69099
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 6²
+http://chronostv.com:80/Aline9090/Aline8080/72501
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 7 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69103
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere 7 HD
+http://chronostv.com:80/Aline9090/Aline8080/69102
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 7 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72479
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",PREMIERE 8 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72480
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere Clubes SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69107
+#EXTINF:-1 group-title="Canais | Premiere" tvg-logo="http://chronostv.com/logos/img/pfc.png",Premiere Clubes HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69106
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/primeboxbrasil.png",Prime Box Brasil SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69214
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/primeboxbrasil.png",Prime Box Brasil HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69213
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/primeboxbrasil.png",Prime Box Brasil SD²
+http://chronostv.com:80/Aline9090/Aline8080/72446
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/3c/Logo_puctv.png",PUC TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/152
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://www.capital.it/wp-content/themes/network-capital/img/logo_capital_1024x1024.png",Radio Capital SD¹
+http://chronostv.com:80/Aline9090/Aline8080/153
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://rdctv.com.br/wp-content/uploads/2018/05/logo-rdctv.png",RDC TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/154
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://sport-tv-guide.live/images/stations/a871.png",Real Madrid SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71303
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://sport-tv-guide.live/images/stations/a871.png",Real Madrid TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/155
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71249
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record  HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68744
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record  HD²
+http://chronostv.com:80/Aline9090/Aline8080/72598
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record  PB HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72661
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record RJ HD²
+http://chronostv.com:80/Aline9090/Aline8080/72674
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record HD³
+http://chronostv.com:80/Aline9090/Aline8080/71250
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record MG SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71244
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record MG HD³
+http://chronostv.com:80/Aline9090/Aline8080/71243
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/recordnews.png",Record News SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69085
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/recordnews.png",Record News HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69084
+#EXTINF:-1 group-title="Canais | Notícias" tvg-logo="http://chronostv.com/logos/img/recordnews.png",Record News SD²
+http://chronostv.com:80/Aline9090/Aline8080/72566
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record PA SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71240
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record RS SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71248
+#EXTINF:-1 group-title="Canais | RecordTV" tvg-logo="http://chronostv.com/logos/img/record.png",Record SP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72553
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",REDE FAMÍLIA HD ¹
+http://chronostv.com:80/Aline9090/Aline8080/75890
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://static.wixstatic.com/media/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png/v1/fit/w_2500,h_1330,al_c/d978d9_81182dc4b4f44be49f3f05c8ba6431a5~mv2.png",Rede Gospel SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72460
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-genesis-hd_m.png",Rede Gênesis SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71287
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-super-canal-23_m.png",Rede Super SD¹
+http://chronostv.com:80/Aline9090/Aline8080/75801
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-super-canal-23_m.png",Rede Super SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71289
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/redetv.png",Rede TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68762
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/redetv.png",REDE TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72427
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/redetv.png",Rede TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69221
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/redetv.png",REDE TV HD²
+http://chronostv.com:80/Aline9090/Aline8080/72673
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida SD¹
+http://chronostv.com:80/Aline9090/Aline8080/189
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/Rede_Vida_logo.png",Rede Vida HD¹
+http://chronostv.com:80/Aline9090/Aline8080/187
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://www.televizniweb.cz/wp-content/uploads/2018/03/Retro-Music-TV-logo.png",RETRO MUSIC SD¹
+http://chronostv.com:80/Aline9090/Aline8080/190
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://www.televizniweb.cz/wp-content/uploads/2018/03/Retro-Music-TV-logo.png",RETRO MUSIC SD²
+http://chronostv.com:80/Aline9090/Aline8080/553
+#EXTINF:-1 group-title="Canais | TV 24h" tvg-logo="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/9215.png",Retrô Anos 60 a 90
+http://chronostv.com:80/Aline9090/Aline8080/75889
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/RIT.png",RIT SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72485
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/03/sbn.png",SBN TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72514
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71251
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT - TV DIFUSORA MA SD¹
+http://chronostv.com:80/Aline9090/Aline8080/191
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT GO HD¹
+http://chronostv.com:80/Aline9090/Aline8080/192
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68766
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT PB SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72488
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT SP HD²
+http://chronostv.com:80/Aline9090/Aline8080/72599
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://chronostv.com/logos/img/sbt.png",SBT SP SD²
+http://chronostv.com:80/Aline9090/Aline8080/72436
+#EXTINF:-1 group-title="Canais | Abertos",SESCTV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/198
+#EXTINF:-1 group-title="Canais | Abertos",SHOP TIME HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72628
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://skyassineonline.com.br/img/channels/lg-21-canal-polishop.png",SHOPTIME SD²
+http://chronostv.com:80/Aline9090/Aline8080/72554
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/09/SIC-TV-PT.png",SIC SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72481
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/sony.png",Sony SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68872
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/sony.png",Sony HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68871
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/sony.png",Sony HD²
+http://chronostv.com:80/Aline9090/Aline8080/72632
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/sony.png",Sony SD²
+http://chronostv.com:80/Aline9090/Aline8080/72495
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/space.png",Space SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68875
+#EXTINF:-1 group-title="Canais | H.265" tvg-logo="http://chronostv.com/logos/img/space.png",SPACE H.265*
+http://chronostv.com:80/Aline9090/Aline8080/72855
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/space.png",Space HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68874
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/space.png",SPACE HD²
+http://chronostv.com:80/Aline9090/Aline8080/72667
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/space.png",SPACE SD²
+http://chronostv.com:80/Aline9090/Aline8080/72494
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",SporTV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72482
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv2.png",SporTV 2 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69140
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv2.png",SporTV 2 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69139
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",SporTV 2 SD²
+http://chronostv.com:80/Aline9090/Aline8080/72437
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv3.png",SporTV 3 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69143
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv3.png",SporTV 3 HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69142
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv3.png",SporTV 3²
+http://chronostv.com:80/Aline9090/Aline8080/72457
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",SporTV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69145
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv3.png",SporTV HD 3²
+http://chronostv.com:80/Aline9090/Aline8080/75948
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",Sportv HD²
+http://chronostv.com:80/Aline9090/Aline8080/72601
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",Sportv HD³
+http://chronostv.com:80/Aline9090/Aline8080/72602
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",SporTV SD²
+http://chronostv.com:80/Aline9090/Aline8080/69146
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="http://chronostv.com/logos/img/sportv.png",SporTV SD³
+http://chronostv.com:80/Aline9090/Aline8080/72560
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/studiouniversal.png",Studio Universal SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68878
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/studiouniversal.png",Studio Universal HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68877
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/studiouniversal.png",Studio Universal SD²
+http://chronostv.com:80/Aline9090/Aline8080/72438
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/syfy1.png",Syfy SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68881
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/syfy1.png",Syfy HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68880
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/syfy1.png",Syfy HD²
+http://chronostv.com:80/Aline9090/Aline8080/72655
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/syfy1.png",Syfy SD²
+http://chronostv.com:80/Aline9090/Aline8080/72483
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tbs.png",TBS SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68884
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tbs.png",TBS HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68883
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tbs.png",TBS HD²
+http://chronostv.com:80/Aline9090/Aline8080/72604
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tbs.png",TBS SD SD²
+http://chronostv.com:80/Aline9090/Aline8080/72484
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tccult.png",TC Cult HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68713
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tcm.png",TCM SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68887
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tcm.png",TCM HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68886
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://duoylvxxmi2z2.cloudfront.net/hashtag/assets/tcm/logo.png",TCM SD²
+http://chronostv.com:80/Aline9090/Aline8080/72442
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcaction.png",Telecine Action  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68711
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcaction.png",Telecine Action HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68710
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcaction.png",Telecine Action HD²
+http://chronostv.com:80/Aline9090/Aline8080/72605
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcaction.png",Telecine Action SD²
+http://chronostv.com:80/Aline9090/Aline8080/72443
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tccult.png",Telecine Cult  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68714
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tccult.png",Telecine Cult HD²
+http://chronostv.com:80/Aline9090/Aline8080/72654
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tccult.png",Telecine Cult SD²
+http://chronostv.com:80/Aline9090/Aline8080/72458
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcfun.png",Telecine Fun SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68717
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcfun.png",Telecine Fun HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68716
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcfun.png",Telecine Fun HD²
+http://chronostv.com:80/Aline9090/Aline8080/72606
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcfun.png",Telecine Fun²
+http://chronostv.com:80/Aline9090/Aline8080/72459
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpipoca.png",Telecine Pipoca SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68720
+#EXTINF:-1 group-title="Canais | H.265" tvg-logo="http://chronostv.com/logos/img/tcpipoca.png",Telecine Pipoca H.265*
+http://chronostv.com:80/Aline9090/Aline8080/72857
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpipoca.png",Telecine Pipoca HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68719
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpipoca.png",Telecine Pipoca HD²
+http://chronostv.com:80/Aline9090/Aline8080/72607
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpipoca.png",Telecine Pipoca²
+http://chronostv.com:80/Aline9090/Aline8080/72504
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpremium.png",Telecine Premium SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68723
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpremium.png",Telecine Premium HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68722
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpremium.png",Telecine Premium HD²
+http://chronostv.com:80/Aline9090/Aline8080/72608
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tcpremium.png",Telecine Premium²
+http://chronostv.com:80/Aline9090/Aline8080/72503
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tctouch.png",Telecine Touch SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68726
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tctouch.png",Telecine Touch HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68725
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tctouch.png",Telecine Touch HD²
+http://chronostv.com:80/Aline9090/Aline8080/72609
+#EXTINF:-1 group-title="Canais | Telecine" tvg-logo="http://chronostv.com/logos/img/tctouch.png",Telecine Touch²
+http://chronostv.com:80/Aline9090/Aline8080/72502
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/tlc.png",TLC SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68890
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/tlc.png",TLC HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68889
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/tlc.png",TLC HD²
+http://chronostv.com:80/Aline9090/Aline8080/72610
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/tlc.png",TLC SD²
+http://chronostv.com:80/Aline9090/Aline8080/72555
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tnt.png",TNT  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68897
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tnt.png",TNT HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68892
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tnt.png",TNT HD²
+http://chronostv.com:80/Aline9090/Aline8080/72645
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tntseries.png",TNT Series SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68896
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tntseries.png",TNT Series HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68895
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tntseries.png",TNT SERIES HD²
+http://chronostv.com:80/Aline9090/Aline8080/72611
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tntseries.png",TNT SERIES SD²
+http://chronostv.com:80/Aline9090/Aline8080/72493
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/tnt.png",TNT SD²
+http://chronostv.com:80/Aline9090/Aline8080/72542
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/tooncast.png",Tooncast SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69068
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/tooncast.png",Tooncast HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69067
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/tooncast.png",Tooncast HD²
+http://chronostv.com:80/Aline9090/Aline8080/72653
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://chronostv.com/logos/img/tooncast.png",Tooncast SD²
+http://chronostv.com:80/Aline9090/Aline8080/72487
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Top_TV_logo.svg/1200px-Top_TV_logo.svg.png",TOP TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/207
+#EXTINF:-1 group-title="Câmeras | Ao Vivo" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/987e6c8d012e857161c1e788e3e4da2b.png",Transamerica FM
+http://chronostv.com:80/Aline9090/Aline8080/75893
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/trutv.png",Tru TV SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71279
+#EXTINF:-1 group-title="Canais | Documentarios" tvg-logo="http://chronostv.com/logos/img/trutv.png",Tru TV HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68832
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida SD¹
+http://chronostv.com:80/Aline9090/Aline8080/213
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1e/Logotipo_da_TV_Aparecida.png",TV Aparecida HD¹
+http://chronostv.com:80/Aline9090/Aline8080/212
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",TV Cultura HD²
+http://chronostv.com:80/Aline9090/Aline8080/72612
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",TV Cultura Para HD¹
+http://chronostv.com:80/Aline9090/Aline8080/35
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png",TV Cultura SD²
+http://chronostv.com:80/Aline9090/Aline8080/72515
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://www.camara.leg.br/midias/image/2020/02/tv.png",TV Câmara SD¹
+http://chronostv.com:80/Aline9090/Aline8080/215
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png",Tv Diario SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71280
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/3381px-TV_Di%C3%A1rio_logo.svg.png",TV Diario HD¹
+http://chronostv.com:80/Aline9090/Aline8080/71281
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://3.bp.blogspot.com/-AFRwAujZlTs/WcQc4KREe5I/AAAAAAAAAIg/xHzZV_kbUrkN9We_GwEMXoWRoN3goxH4QCK4BGAYYCw/s1600/tv%2Bdiario%2Bdo%2Bsertao.png",TV Diário do Sertão SD¹
+http://chronostv.com:80/Aline9090/Aline8080/550
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png",TV Evangelizar SD³
+http://chronostv.com:80/Aline9090/Aline8080/86215
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png",TV Evangelizar SD²
+http://chronostv.com:80/Aline9090/Aline8080/561
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",TV Gazeta SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71300
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",TV Gazeta HD²
+http://chronostv.com:80/Aline9090/Aline8080/72613
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV_Gazeta.svg/1200px-TV_Gazeta.svg.png",TV Gazeta SD²
+http://chronostv.com:80/Aline9090/Aline8080/72564
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://listaiptvbrasil.com/logo/tvjornal.png",TV Jornal de Limeira SP SD¹
+http://chronostv.com:80/Aline9090/Aline8080/558
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://cdn.mitvstatic.com/channels/br_tv-justica-1_m.png",TV Justica SD¹
+http://chronostv.com:80/Aline9090/Aline8080/72556
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://i.imgur.com/tfc2BYM.png",TV Kids HD¹
+http://chronostv.com:80/Aline9090/Aline8080/219
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tv-novo-tempo-png-6.png",TV Novo Tempo SD¹
+http://chronostv.com:80/Aline9090/Aline8080/128
+#EXTINF:-1 group-title="Canais | Religioso" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-tv-novo-tempo-png-6.png",TV Novo Tempo SD²
+http://chronostv.com:80/Aline9090/Aline8080/72444
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_rede_pampa.png",TV Pampa RS  HD²
+http://chronostv.com:80/Aline9090/Aline8080/72614
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://chronostv.com/logos/img/globo.png",TV Rio Sul SD¹
+http://chronostv.com:80/Aline9090/Aline8080/71299
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV Rá-Tim-Bum SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68785
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV Rá-Tim-Bum HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68784
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV Rá-Tim-Bum HD²
+http://chronostv.com:80/Aline9090/Aline8080/72652
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png",TV Rá-Tim-Bum SD²
+http://chronostv.com:80/Aline9090/Aline8080/72557
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/81/Logotipo_da_TV_Vit%C3%B3ria.png",TV VITORIA ES HD²
+http://chronostv.com:80/Aline9090/Aline8080/72615
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/1200px-TV5_%28logo%29.svg.png",TV5 SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69225
+#EXTINF:-1 group-title="Canais | Abertos" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Tv8_new_logo.png",TV8 Brasil SD¹
+http://chronostv.com:80/Aline9090/Aline8080/226
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/universalchannel.png",Universal Channel  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68900
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/universalchannel.png",Universal Channel HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68899
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/vh1.png",VH1 Mega Hits SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69229
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/vh1.png",VH1 Mega Hits HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69228
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/vh1.png",VH1 Mega Hits SD²
+http://chronostv.com:80/Aline9090/Aline8080/72562
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalviva.png",Viva SD¹
+http://chronostv.com:80/Aline9090/Aline8080/69232
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalviva.png",Viva HD¹
+http://chronostv.com:80/Aline9090/Aline8080/69231
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="http://chronostv.com/logos/img/canalviva.png",Viva SD²
+http://chronostv.com:80/Aline9090/Aline8080/72559
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/warnerchannel.png",Warner Channel  SD¹
+http://chronostv.com:80/Aline9090/Aline8080/68903
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/warnerchannel.png",Warner Channel HD¹
+http://chronostv.com:80/Aline9090/Aline8080/68902
+#EXTINF:-1 group-title="Canais | Filmes & Séries" tvg-logo="http://chronostv.com/logos/img/warnerchannel.png",Warner Channel HD²
+http://chronostv.com:80/Aline9090/Aline8080/72617
+#EXTINF:-1 group-title="Canais | Variedades" tvg-logo="https://skyassineonline.com.br/img/channels/lg-24-canal-woohoo.png",Woohoo SD²
+http://chronostv.com:80/Aline9090/Aline8080/72565
+#EXTINF:-1 group-title="Canais | Infantis" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png",ZooMoo HD¹
+http://chronostv.com:80/Aline9090/Aline8080/72651
+#EXTINF:-1 group-title="Canais | 4K" tvg-logo="http://chronostv.com/logos/img/foxsports2.png",Fox Sports 2 [4K]²
+http://chronostv.com:80/Aline9090/Aline8080/72837
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://i.imgur.com/VNnZ0Ns.png",FlaTV FHD¹
+http://chronostv.com:80/Aline9090/Aline8080/89002
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://data.apksum.com/d3/com.dazn/2.5.4/icon.png",DAZN FHD¹
+http://chronostv.com:80/Aline9090/Aline8080/89004
+#EXTINF:-1 group-title="Canais | Esportes" tvg-logo="https://data.apksum.com/d3/com.dazn/2.5.4/icon.png",DAZN SD¹
+http://chronostv.com:80/Aline9090/Aline8080/89005
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://i.pinimg.com/originals/ac/98/36/ac98363fa1d213a0bea7b5a641fc3a73.png",WATCH: Astronaut Spacewalk
+http://chronostv.com:80/Aline9090/Aline8080/89007
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://image.flaticon.com/icons/png/512/279/279539.png",lofi hip hop
+http://chronostv.com:80/Aline9090/Aline8080/89008
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://images.lojanike.com.br/1024x1024/produto/202707_1947196_20200205110837.png",Jogos AO VIVO
+http://chronostv.com:80/Aline9090/Aline8080/89246
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://yt3.ggpht.com/a/AATXAJxB95TPDNi6mWl1OAgRd4d_M6Nxc5Quu3DozESUaA=s48-c-k-c0xffffffff-no-rj-mo",VascoTV FHD¹
+http://chronostv.com:80/Aline9090/Aline8080/89247
+#EXTINF:-1 group-title="Lives | Youtube" tvg-logo="https://academiakingkong.com.br/wp-content/uploads/2018/06/muay-thai1.png",Re-Air | Bellator 181 Girtz vs. Campos 3
+http://chronostv.com:80/Aline9090/Aline8080/90318
